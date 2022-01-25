@@ -1,4 +1,4 @@
-HugoSymbol  Location    Action  Status
+HugoSymbol  Location    InteractionType  Status
 "BCR/ABL fusion"	Y177	PHOSPHORYLATION	1
 AANAT	T31	PHOSPHORYLATION	0
 AATF	S143	PHOSPHORYLATION	1
