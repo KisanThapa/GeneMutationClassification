@@ -1,0 +1,84 @@
+Gene,InteractionType,Output,Location,InteractCode,LocArr,SiteStatus,GeneStatus,FinalResult,GeneLabel
+FN1,dephosphorylates,SRC,Y529,-1,['Y529'],[0],1,[0],-3
+EGF,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+RALA,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+RALB,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+SLA,dephosphorylates,SRC,Y419,-1,['Y419'],['1'],1,[-1],-3
+GAB1,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],1
+BTC,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+CSK,dephosphorylates,SRC,Y419,-1,['Y419'],['1'],1,[-1],-3
+PRKACA,phosphorylates,SRC,S17;Y419,1,"['S17', 'Y419']","['1', '1']",1,"[1, 1]",1
+HBEGF,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+OPRD1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+PLAUR,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+NTRK3,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+PTK2B,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+GRB2,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+PTPN11,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],1
+PTPN13,dephosphorylates,SRC,Y419,-1,['Y419'],['1'],1,[-1],-2
+AFDN,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-2
+RACK1,dephosphorylates,SRC,Y418,-1,['Y418'],[0],1,[0],-3
+PDGFB,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+PDGFA,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+NECTIN3,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+CBLC,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-2
+STRN,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-2
+PDGFRB,phosphorylates,SRC,Y139;Y419,1,"['Y139', 'Y419']","[0, '1']",1,"[0, 1]",1
+PDGFRA,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+ITGB3,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+ITGAV,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+ITGA9,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+AREG,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+PTPRA,dephosphorylates,SRC,Y529,-1,['Y529'],[0],1,[0],-3
+PTPRJ,dephosphorylates,SRC,Y529,-1,['Y529'],[0],1,[0],-3
+PTPN1,dephosphorylates,SRC,Y530;Y529,-1,"['Y530', 'Y529']","['-1', 0]",1,"[1, 0]",0
+PTPN2,dephosphorylates,SRC,Y419,-1,['Y419'],['1'],1,[-1],-1
+CDH1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-1
+CDK5,phosphorylates,SRC,S75;S306;T37,1,"['S75', 'S306', 'T37']","['1', 0, 0]",1,"[1, 0, 0]",-3
+TDGF1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+VEGFA,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+TGFA,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+SIRPA,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+SH2D2A,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+MATK,phosphorylates,SRC,Y530,1,['Y530'],['-1'],1,[-1],-3
+NTF3,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+GNAI3,phosphorylates,SRC,Y416;Y419,1,"['Y416', 'Y419']","[0, '1']",1,"[0, 1]",-3
+GNAI1,phosphorylates,SRC,Y416;Y419,1,"['Y416', 'Y419']","[0, '1']",1,"[0, 1]",-3
+GNAI2,phosphorylates,SRC,Y416;Y419,1,"['Y416', 'Y419']","[0, '1']",1,"[0, 1]",-3
+VCAM1,dephosphorylates,SRC,Y529,-1,['Y529'],[0],1,[0],-3
+ESR2,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+ESR1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+VTN,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+EFNB1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+PVR,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+TNC,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+GNAS,phosphorylates,SRC,Y416,1,['Y416'],[0],1,[0],1
+GNB1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+GNAZ,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+GNG2,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+FGR,phosphorylates,SRC,Y530,1,['Y530'],['-1'],1,[-1],-3
+GNAO1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+GNAT3,phosphorylates,SRC,Y416,1,['Y416'],[0],1,[0],-3
+CSK,phosphorylates,SRC,Y530;Y338;Y529,1,"['Y530', 'Y338', 'Y529']","['-1', 0, 0]",1,"[-1, 0, 0]",-3
+ITGA4,dephosphorylates,SRC,Y529,-1,['Y529'],[0],1,[0],-3
+ITGB1,dephosphorylates,SRC,Y529,-1,['Y529'],[0],1,[0],-3
+MET,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+PTN,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+S1PR3,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+S1PR1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+HGF,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+KDR,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+EPGN,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+EPHB2,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+EPHB1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-1
+EREG,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],-3
+PRKCA,phosphorylates,SRC,S12,1,['S12'],['1'],1,[1],-3
+PRKCD,phosphorylates,SRC,S12,1,['S12'],['1'],1,[1],-3
+GPC1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+CTNND1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+CTNNA1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-2
+CTNNB1,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],1
+PLAU,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
+EGFR,dephosphorylates,SRC,Y530,-1,['Y530'],['-1'],1,[1],1
+PPP2R2C,phosphorylates,SRC,S12,1,['S12'],['1'],1,[1],-3
+PTK2,phosphorylates,SRC,Y419,1,['Y419'],['1'],1,[1],-3
