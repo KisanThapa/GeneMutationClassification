@@ -1,0 +1,445 @@
+Gene,InteractionType,Output,Location,InteractCode,LocArr,SiteStatus,GeneStatus,FinalResult,GeneLabel
+RAF1,phosphorylates,RB1,S608,1,['S608'],[0],-1,[0],1
+RAF1,phosphorylates,MYC,T8,1,['T8'],[0],1,[0],1
+RAF1,phosphorylates,HRAS,Y137,1,['Y137'],[0],1,[0],1
+RAF1,phosphorylates,MAP2K2,S226;S222,1,"['S226', 'S222']","[1, 1]",1,"[1, 1]",1
+RAF1,phosphorylates,MAP2K1,S218;T292;S298;S222;T286;T386,1,"['S218', 'T292', 'S298', 'S222', 'T286', 'T386']","[1, -1, 1, 1, -1, 0]",1,"[1, -1, 1, 1, -1, 0]",1
+RAF1,phosphorylates,BCL2L11,S602;T599,1,"['S602', 'T599']","[0, 0]",-1,"[0, 0]",1
+RAF1,phosphorylates,MAPK1,T182;S29;T185;Y184;Y187,1,"['T182', 'S29', 'T185', 'Y184', 'Y187']","[0, 1, 1, 0, 1]",1,"[0, 1, 1, 0, 1]",1
+RAF1,phosphorylates,MAPK3,Y204;Y203;T202;T201,1,"['Y204', 'Y203', 'T202', 'T201']","[1, 0, 1, 0]",1,"[1, 0, 1, 0]",1
+RAF1,dephosphorylates,BRAF,T753;T401;S750;S151,-1,"['T753', 'T401', 'S750', 'S151']","[-1, -1, -1, -1]",1,"[1, 1, 1, 1]",1
+RAF1,dephosphorylates,KRAS,S181,-1,['S181'],[1],1,[-1],1
+RAF1,phosphorylates,NRAS,S89,1,['S89'],[1],1,[1],1
+E2F1,deacetylates,RB1,K874;K873,-1,"['K874', 'K873']","[0, 0]",-1,"[0, 0]",-3
+E2F1,dephosphorylates,RB1,S788;S811;T821;T356;S795;S807;S608;T373;T826,-1,"['S788', 'S811', 'T821', 'T356', 'S795', 'S807', 'S608', 'T373', 'T826']","[0, -1, 1, 0, -1, -1, 0, -1, -1]",-1,"[0, -1, 1, 0, -1, -1, 0, -1, -1]",-3
+E2F1,deacetylates,RB1,K874;K873,-1,"['K874', 'K873']","[0, 0]",-1,"[0, 0]",-3
+E2F1,dephosphorylates,RB1,S788;S811;T821;T356;S795;S807;S608;T373;T826,-1,"['S788', 'S811', 'T821', 'T356', 'S795', 'S807', 'S608', 'T373', 'T826']","[0, -1, 1, 0, -1, -1, 0, -1, -1]",-1,"[0, -1, 1, 0, -1, -1, 0, -1, -1]",-3
+MAPK14,phosphorylates,EWSR1,T79,1,['T79'],[0],1,[0],-3
+MAPK14,phosphorylates,JUN,S63;S73,1,"['S63', 'S73']","[1, 1]",1,"[1, 1]",-3
+MAPK14,phosphorylates,MAX,S135;S144;S49;S40,1,"['S135', 'S144', 'S49', 'S40']","[0, 0, 0, 0]",-1,"[0, 0, 0, 0]",-3
+MAPK14,phosphorylates,RB1,S567,1,['S567'],[-1],-1,[1],-3
+MAPK14,phosphorylates,XBP1,S68,1,['S68'],[-1],1,[-1],-3
+MAPK14,phosphorylates,ETV1,S191;S216,1,"['S191', 'S216']","[1, 1]",1,"[1, 1]",-3
+MAPK14,phosphorylates,ETV6,S22;S257,1,"['S22', 'S257']","[0, -1]",-1,"[0, 1]",-3
+MAPK14,phosphorylates,ESR1,S118;T311;S294,1,"['S118', 'T311', 'S294']","[1, 1, 1]",1,"[1, 1, 1]",-3
+MAPK14,phosphorylates,STAT3,Y705;S727,1,"['Y705', 'S727']","[1, 1]",1,"[1, 1]",-3
+MAPK14,phosphorylates,CREB1,S257;S133,1,"['S257', 'S133']","[0, 1]",1,"[0, 1]",-3
+MAPK14,phosphorylates,RPS6KA4,T439;S434;S347;T568;S343;T562;S360;S196,1,"['T439', 'S434', 'S347', 'T568', 'S343', 'T562', 'S360', 'S196']","[0, 0, 1, 1, 1, 0, 1, 1]",1,"[0, 0, 1, 1, 1, 0, 1, 1]",-3
+MAPK14,phosphorylates,EIF4E,S209,1,['S209'],[1],1,[1],-3
+MAPK14,phosphorylates,CDKN1A,T57;S130,1,"['T57', 'S130']","[-1, -1]",-1,"[1, 1]",-3
+MAPK14,phosphorylates,SMAD3,S208;S204;S213,1,"['S208', 'S204', 'S213']","[-1, -1, -1]",-1,"[1, 1, 1]",-3
+MAPK14,phosphorylates,TSC2,S1210,1,['S1210'],[0],-1,[0],-3
+MAPK14,phosphorylates,TP53,S315;S33;S46;S37;S15;T81;S392,1,"['S315', 'S33', 'S46', 'S37', 'S15', 'T81', 'S392']","[1, 1, 1, 1, 1, 1, 1]",-1,"[-1, -1, -1, -1, -1, -1, -1]",-3
+MAPK14,phosphorylates,GSK3B,T390;S389,1,"['T390', 'S389']","[1, -1]",1,"[1, -1]",-3
+MAPK14,phosphorylates,TCF3,S139,1,['S139'],[1],-1,[-1],-3
+MAPK14,phosphorylates,CASP8,S347,1,['S347'],[-1],-1,[1],-3
+MAPK14,phosphorylates,NFKBIA,S291;S289;T299;S283;S293,1,"['S291', 'S289', 'T299', 'S283', 'S293']","[0, 0, -1, -1, -1]",-1,"[0, 0, 1, 1, 1]",-3
+MAPK14,phosphorylates,BCL2,S87;T56,1,"['S87', 'T56']","[-1, 1]",1,"[-1, 1]",-3
+MAPK14,phosphorylates,BCL2L11,S69,1,['S69'],[-1],-1,[1],-3
+MAPK14,phosphorylates,NCOA3,S867;S505;S543;T24;S860,1,"['S867', 'S505', 'S543', 'T24', 'S860']","[0, 1, 0, 0, -1]",1,"[0, 1, 0, 0, -1]",-3
+MAPK14,phosphorylates,EGFR,S1039;T1041;T693,1,"['S1039', 'T1041', 'T693']","[0, 0, -1]",1,"[0, 0, -1]",-3
+MAPK14,phosphorylates,AR,S650;S651,1,"['S650', 'S651']","[0, 0]",1,"[0, 0]",-3
+MAPK14,phosphorylates,FOXO1,S416;S432;T478;S470;T560,1,"['S416', 'S432', 'T478', 'S470', 'T560']","[0, 0, 0, 0, 0]",-1,"[0, 0, 0, 0, 0]",-3
+MAPK14,phosphorylates,FGFR1,S777,1,['S777'],[-1],1,[-1],-3
+MAPK14,phosphorylates,CCND2,T280,1,['T280'],[-1],1,[-1],-3
+PRKAA1,phosphorylates,YAP1,S61;S94,1,"['S61', 'S94']","[-1, 0]",1,"[-1, 0]",-3
+PRKAA1,phosphorylates,EP300,S89,1,['S89'],[-1],-1,[1],-3
+PRKAA1,phosphorylates,SYK,S178,1,['S178'],[0],1,[0],-3
+PRKAA1,phosphorylates,RB1,S811,1,['S811'],[-1],-1,[1],-3
+PRKAA1,phosphorylates,RPTOR,S722;S792,1,"['S722', 'S792']","[1, 0]",1,"[1, 0]",-3
+PRKAA1,phosphorylates,STK11,S307,1,['S307'],[1],-1,[-1],-3
+PRKAA1,phosphorylates,PRKACA,T49;T198,1,"['T49', 'T198']","[0, 1]",1,"[0, 1]",-3
+PRKAA1,phosphorylates,CDKN1B,T198,1,['T198'],[-1],-1,[1],-3
+PRKAA1,phosphorylates,ERBB2,T900,1,['T900'],[0],1,[0],-3
+PRKAA1,phosphorylates,HDAC7,S358;S155,1,"['S358', 'S155']","[-1, -1]",1,"[-1, -1]",-3
+PRKAA1,phosphorylates,RAF1,S621;S259,1,"['S621', 'S259']","[1, -1]",1,"[1, -1]",-3
+PRKAA1,phosphorylates,RAD51,T309,1,['T309'],[1],-1,[-1],-3
+PRKAA1,phosphorylates,TSC2,S1387,1,['S1387'],[1],-1,[-1],-3
+PRKAA1,phosphorylates,FOXO1,T649,1,['T649'],[0],-1,[0],-3
+PRKAA1,phosphorylates,BRAF,S729,1,['S729'],[1],1,[1],-3
+PRKAA1,phosphorylates,TP53,S20;S15;T18,1,"['S20', 'S15', 'T18']","[1, 1, 1]",-1,"[-1, -1, -1]",-3
+PRKAA1,phosphorylates,EGFR,T892,1,['T892'],[0],1,[0],-3
+PRKAA1,phosphorylates,MTOR,T2446,1,['T2446'],[0],1,[0],-3
+PRKACA,phosphorylates,CTNNB1,S45;S675;S552,1,"['S45', 'S675', 'S552']","[-1, 1, -1]",1,"[-1, 1, -1]",1
+PRKACA,phosphorylates,GLI1,S544;S640;S560;T374,1,"['S544', 'S640', 'S560', 'T374']","[0, 0, 0, -1]",1,"[0, 0, 0, -1]",1
+PRKACA,phosphorylates,PTPN11,T73;S189,1,"['T73', 'S189']","[-1, -1]",1,"[-1, -1]",1
+PRKACA,phosphorylates,SRC,S17;Y419,1,"['S17', 'Y419']","[1, 1]",1,"[1, 1]",1
+PRKACA,phosphorylates,RET,S696,1,['S696'],[1],1,[1],1
+PRKACA,phosphorylates,RB1,S780,1,['S780'],[-1],-1,[1],1
+PRKACA,phosphorylates,XPO1,T65;S1055,1,"['T65', 'S1055']","[0, 1]",1,"[0, 1]",1
+PRKACA,phosphorylates,NF2,S10;S518,1,"['S10', 'S518']","[-1, -1]",-1,"[1, 1]",1
+PRKACA,phosphorylates,CBL,S483,1,['S483'],[0],-1,[0],1
+PRKACA,phosphorylates,ATR,S435,1,['S435'],[0],-1,[0],1
+PRKACA,phosphorylates,APC,S2054,1,['S2054'],[0],-1,[0],1
+PRKACA,phosphorylates,STK11,S428,1,['S428'],[1],-1,[-1],1
+PRKACA,phosphorylates,LCK,S42,1,['S42'],[-1],1,[-1],1
+PRKACA,phosphorylates,GNA13,T203,1,['T203'],[0],1,[0],1
+PRKACA,phosphorylates,FYN,S21,1,['S21'],[1],1,[1],1
+PRKACA,phosphorylates,NCOA3,S857,1,['S857'],[1],1,[1],1
+PRKACA,phosphorylates,NCOR1,S70,1,['S70'],[0],-1,[0],1
+PRKACA,phosphorylates,H3F3A,S11;S29,1,"['S11', 'S29']","[1, 1]",1,"[1, 1]",1
+PRKACA,phosphorylates,PLCG1,S1248,1,['S1248'],[-1],1,[-1],1
+PRKACA,phosphorylates,ATF1,S63,1,['S63'],[1],1,[1],1
+PRKACA,phosphorylates,SGK1,T369,1,['T369'],[1],1,[1],1
+PRKACA,phosphorylates,ERBB2,T686,1,['T686'],[-1],1,[-1],1
+PRKACA,phosphorylates,IRS1,S1100;S1222;S1223,1,"['S1100', 'S1222', 'S1223']","[0, 0, -1]",1,"[0, 0, -1]",1
+PRKACA,phosphorylates,CIITA,S834;S1050,1,"['S834', 'S1050']","[0, 0]",1,"[0, 0]",1
+PRKACA,phosphorylates,CREB1,S133,1,['S133'],[1],1,[1],1
+PRKACA,phosphorylates,RAF1,S43;S621;S259;S497;S233;S619,1,"['S43', 'S621', 'S259', 'S497', 'S233', 'S619']","[-1, 1, -1, 1, 0, 1]",1,"[-1, 1, -1, 1, 0, 1]",1
+PRKACA,phosphorylates,RUNX1T1,T592,1,['T592'],[0],1,[0],1
+PRKACA,phosphorylates,RHOA,S188,1,['S188'],[-1],1,[-1],1
+PRKACA,phosphorylates,HLA-A,S337;S343,1,"['S337', 'S343']","[0, 0]",-1,"[0, 0]",1
+PRKACA,phosphorylates,LRP6,T1548,1,['T1548'],[0],1,[0],1
+PRKACA,phosphorylates,AURKA,T288;S51,1,"['T288', 'S51']","[1, 1]",1,"[1, 1]",1
+PRKACA,phosphorylates,CUX1,S1215;S1237;S1270,1,"['S1215', 'S1237', 'S1270']","[0, -1, -1]",-1,"[0, 1, 1]",1
+PRKACA,phosphorylates,DAXX,S97;S688,1,"['S97', 'S688']","[0, 0]",-1,"[0, 0]",1
+PRKACA,phosphorylates,PIK3R1,S83,1,['S83'],[-1],-1,[1],1
+PRKACA,phosphorylates,PIK3CG,T1024,1,['T1024'],[-1],1,[-1],1
+PRKACA,phosphorylates,CCND1,S234;S197;S90,1,"['S234', 'S197', 'S90']","[0, 0, 0]",1,"[0, 0, 0]",1
+PRKACA,phosphorylates,BRAF,S430,1,['S430'],[0],1,[0],1
+PRKACA,phosphorylates,GSK3B,S9,1,['S9'],[-1],1,[-1],1
+PRKACA,phosphorylates,TAL1,S122;S172,1,"['S122', 'S172']","[-1, 1]",1,"[-1, 1]",1
+PRKACA,phosphorylates,TP53,S378,1,['S378'],[1],-1,[-1],1
+PRKACA,phosphorylates,SUFU,S346;S342,1,"['S346', 'S342']","[1, 1]",-1,"[-1, -1]",1
+PRKACA,phosphorylates,HIST1H1E,S36,1,['S36'],[0],1,[0],1
+PRKACA,phosphorylates,ETV5,S367,1,['S367'],[0],1,[0],1
+PRKACA,phosphorylates,ETV1,S191;S216;S334,1,"['S191', 'S216', 'S334']","[1, 1, 1]",1,"[1, 1, 1]",1
+PRKACA,phosphorylates,ESR1,S305;S236,1,"['S305', 'S236']","[1, -1]",1,"[1, -1]",1
+PRKACA,phosphorylates,MDM4,S367,1,['S367'],[1],1,[1],1
+PPP2R1A,dephosphorylates,RB1,S795,-1,['S795'],[-1],-1,[-1],-1
+PPP2R1A,dephosphorylates,CHEK1,S317;S345,-1,"['S317', 'S345']","[1, 1]",-1,"[1, 1]",-1
+PPP2R1A,dephosphorylates,RAF1,S259;S289;S301;S642;S296;S29;Y341,-1,"['S259', 'S289', 'S301', 'S642', 'S296', 'S29', 'Y341']","[-1, 1, -1, -1, 1, -1, 1]",1,"[1, -1, 1, 1, -1, 1, -1]",-1
+PPP2R1A,phosphorylates,AURKA,T288,1,['T288'],[1],1,[1],-1
+PPP2R1A,dephosphorylates,ARAF,S214,-1,['S214'],[1],1,[-1],-1
+PPP2R1A,dephosphorylates,AKT2,S474;T309,-1,"['S474', 'T309']","[1, 1]",1,"[-1, -1]",-1
+PPP2R1A,dephosphorylates,AKT3,T305;S472,-1,"['T305', 'S472']","[1, 0]",1,"[-1, 0]",-1
+PPP2R1A,dephosphorylates,AKT1,T308;S473,-1,"['T308', 'S473']","[1, 1]",1,"[-1, -1]",-1
+PPP2R1A,dephosphorylates,BRAF,S602;T753;T401;T599;S750;S365;S151,-1,"['S602', 'T753', 'T401', 'T599', 'S750', 'S365', 'S151']","[1, -1, -1, 1, -1, -1, -1]",1,"[-1, 1, 1, -1, 1, 1, 1]",-1
+PPP2R1A,dephosphorylates,MAPK3,Y204;T202,-1,"['Y204', 'T202']","[1, 1]",1,"[-1, -1]",-1
+PPP2R1A,dephosphorylates,MAPK1,T185;Y187,-1,"['T185', 'Y187']","[1, 1]",1,"[-1, -1]",-1
+PPP2R1A,dephosphorylates,MDM2,T218;S188;S166,-1,"['T218', 'S188', 'S166']","[0, 1, 1]",1,"[0, -1, -1]",-1
+PPP2R3B,dephosphorylates,RB1,S795;T826,-1,"['S795', 'T826']","[-1, -1]",-1,"[-1, -1]",-3
+PPP2R1B,dephosphorylates,RB1,S795,-1,['S795'],[-1],-1,[-1],-3
+PPP2R1B,dephosphorylates,RAF1,S259;S494;T491;Y341,-1,"['S259', 'S494', 'T491', 'Y341']","[-1, 1, 1, 1]",1,"[1, -1, -1, -1]",-3
+PPP2R1B,dephosphorylates,ARAF,S214,-1,['S214'],[1],1,[-1],-3
+PPP2R1B,dephosphorylates,AKT3,T305;S472,-1,"['T305', 'S472']","[1, 0]",1,"[-1, 0]",-3
+PPP2R1B,dephosphorylates,AKT1,T308;S473,-1,"['T308', 'S473']","[1, 1]",1,"[-1, -1]",-3
+PPP2R1B,dephosphorylates,AKT2,S474;T309,-1,"['S474', 'T309']","[1, 1]",1,"[-1, -1]",-3
+PPP2R1B,dephosphorylates,BRAF,S365,-1,['S365'],[-1],1,[1],-3
+PPP2R1B,dephosphorylates,MAPK3,Y204;T202,-1,"['Y204', 'T202']","[1, 1]",1,"[-1, -1]",-3
+PPP2R1B,dephosphorylates,MAPK1,T185;Y187,-1,"['T185', 'Y187']","[1, 1]",1,"[-1, -1]",-3
+PPP2R1B,dephosphorylates,MDM2,T218;S188;S166,-1,"['T218', 'S188', 'S166']","[0, 1, 1]",1,"[0, -1, -1]",-3
+CDKN1B,phosphorylates,RB1,S795,1,['S795'],[-1],-1,[1],-1
+CDKN1B,dephosphorylates,FOXO1,S249,-1,['S249'],[-1],-1,[-1],-1
+CDKN1C,phosphorylates,RB1,S795,1,['S795'],[-1],-1,[1],-3
+SMYD2,methylates,RB1,K860;K810,1,"['K860', 'K810']","[0, 0]",-1,"[0, 0]",-3
+SMYD2,methylates,TP53,K370,1,['K370'],[-1],-1,[1],-3
+AURKB,phosphorylates,TP53,S269;S215;T211;T284;S183,1,"['S269', 'S215', 'T211', 'T284', 'S183']","[-1, -1, -1, -1, -1]",-1,"[1, 1, 1, 1, 1]",1
+AURKB,phosphorylates,MDM4,T365,1,['T365'],[0],1,[0],1
+AURKB,phosphorylates,RB1,S780,1,['S780'],[-1],-1,[1],1
+AURKB,phosphorylates,YY1,S180;S184,1,"['S180', 'S184']","[1, 1]",1,"[1, 1]",1
+AURKB,phosphorylates,ATM,S1403,1,['S1403'],[1],-1,[-1],1
+AURKB,phosphorylates,CBL,S619,1,['S619'],[0],-1,[0],1
+AURKB,phosphorylates,DEK,T67,1,['T67'],[-1],1,[-1],1
+AURKB,phosphorylates,PRKACA,S339;S140,1,"['S339', 'S140']","[1, 0]",1,"[1, 0]",1
+AURKB,phosphorylates,H3F3A,S11;T119;S29,1,"['S11', 'T119', 'S29']","[1, 0, 1]",1,"[1, 0, 1]",1
+AURKB,phosphorylates,DDX3X,S594,1,['S594'],[0],-1,[0],1
+CCND2,phosphorylates,RB1,S788;S795;S780,1,"['S788', 'S795', 'S780']","[0, -1, -1]",-1,"[0, 1, 1]",1
+CCNE1,phosphorylates,BARD1,S148;T299;S288;S251,1,"['S148', 'T299', 'S288', 'S251']","[0, 0, 0, 0]",-1,"[0, 0, 0, 0]",1
+CCNE1,phosphorylates,RB1,T821;S567;S795;T826,1,"['T821', 'S567', 'S795', 'T826']","[1, -1, -1, -1]",-1,"[-1, 1, 1, 1]",1
+CCNE1,phosphorylates,CDKN1A,S130,1,['S130'],[-1],-1,[1],1
+CCNE1,dephosphorylates,FBXW7,S18,-1,['S18'],[0],-1,[0],1
+CCNE1,dephosphorylates,CDKN1B,Y74,-1,['Y74'],[-1],-1,[-1],1
+CCNE2,phosphorylates,RB1,S795,1,['S795'],[-1],-1,[1],-3
+CCNE2,phosphorylates,CDKN1B,T187,1,['T187'],[-1],-1,[1],-3
+CCNE2,phosphorylates,CDKN1A,S130,1,['S130'],[-1],-1,[1],-3
+CCNA2,phosphorylates,MDM2,T218;T216,1,"['T218', 'T216']","[0, -1]",1,"[0, -1]",-3
+CCNA2,phosphorylates,RB1,S811;T821;S567;S807;T826,1,"['S811', 'T821', 'S567', 'S807', 'T826']","[-1, 1, -1, -1, -1]",-1,"[1, -1, 1, 1, 1]",-3
+CCNA2,phosphorylates,CDKN1B,T187,1,['T187'],[-1],-1,[1],-3
+CCNA2,phosphorylates,CDKN1A,S130,1,['S130'],[-1],-1,[1],-3
+CCNA2,phosphorylates,BTG1,T158,1,['T158'],[0],-1,[0],-3
+CCNA2,phosphorylates,TP53,S315;S33;T81,1,"['S315', 'S33', 'T81']","[1, 1, 1]",-1,"[-1, -1, -1]",-3
+ARF1,phosphorylates,NPM1,S88;S70,1,"['S88', 'S70']","[0, 0]",-1,"[0, 0]",-3
+ARF1,dephosphorylates,RB1,S795,-1,['S795'],[-1],-1,[-1],-3
+ARF1,phosphorylates,TOP1,S506,1,['S506'],[0],-1,[0],-3
+ARF1,phosphorylates,MDM2,T218;S166;S186,1,"['T218', 'S166', 'S186']","[0, 1, 1]",1,"[0, 1, 1]",-3
+CDK4,phosphorylates,NPM1,T199,1,['T199'],[-1],-1,[1],1
+CDK4,phosphorylates,BRCA1,S632,1,['S632'],[-1],-1,[1],1
+CDK4,phosphorylates,CBL,S452;S483,1,"['S452', 'S483']","[0, 0]",-1,"[0, 0]",1
+CDK4,phosphorylates,XPO1,S391,1,['S391'],[0],1,[0],1
+CDK4,dephosphorylates,CCND1,T286,-1,['T286'],[-1],1,[1],1
+CDK4,phosphorylates,EP400,S736;S315;S755;S321,1,"['S736', 'S315', 'S755', 'S321']","[0, 0, 0, 0]",-1,"[0, 0, 0, 0]",1
+CDK4,phosphorylates,SMAD4,T277,1,['T277'],[1],-1,[-1],1
+CDK4,phosphorylates,SMAD3,S208;T8;S204;S213;T179,1,"['S208', 'T8', 'S204', 'S213', 'T179']","[-1, -1, -1, -1, -1]",-1,"[1, 1, 1, 1, 1]",1
+CDK4,phosphorylates,RB1,T5;S788;S612;S249;S811;S795;T356;S807;S608;T826;S780;T252;T373,1,"['T5', 'S788', 'S612', 'S249', 'S811', 'S795', 'T356', 'S807', 'S608', 'T826', 'S780', 'T252', 'T373']","[0, 0, 1, -1, -1, -1, 0, -1, 0, -1, -1, -1, -1]",-1,"[0, 0, -1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1]",1
+CDK4,phosphorylates,SF3B1,S129,1,['S129'],[0],1,[0],1
+CDK4,phosphorylates,CDKN2A,S140;S152,1,"['S140', 'S152']","[1, 1]",-1,"[-1, -1]",1
+CDK4,phosphorylates,CDKN1B,Y88;T157;T187;T198;Y89,1,"['Y88', 'T157', 'T187', 'T198', 'Y89']","[-1, -1, -1, -1, -1]",-1,"[1, 1, 1, 1, 1]",1
+CDK4,dephosphorylates,CDKN1A,T57;T145;S130,-1,"['T57', 'T145', 'S130']","[-1, 1, -1]",-1,"[-1, 1, -1]",1
+CDK4,phosphorylates,TCF3,S139;S245,1,"['S139', 'S245']","[1, 0]",-1,"[-1, 0]",1
+CDK4,phosphorylates,FOXO1,S249,1,['S249'],[-1],-1,[1],1
+CDK3,phosphorylates,ESR1,S106;S118;S104,1,"['S106', 'S118', 'S104']","[1, 1, 1]",1,"[1, 1, 1]",-3
+CDK3,phosphorylates,JUN,S63;S73,1,"['S63', 'S73']","[1, 1]",1,"[1, 1]",-3
+CDK3,phosphorylates,RB1,S811;S807,1,"['S811', 'S807']","[-1, -1]",-1,"[1, 1]",-3
+CDK3,phosphorylates,CHEK1,S301,1,['S301'],[1],-1,[-1],-3
+CDK3,phosphorylates,ATF1,S63,1,['S63'],[1],1,[1],-3
+CDK6,phosphorylates,NPM1,T199,1,['T199'],[-1],-1,[1],1
+CDK6,phosphorylates,CTNNB1,S45,1,['S45'],[-1],1,[-1],1
+CDK6,phosphorylates,RB1,S788;S612;S811;T821;S795;S807;S780;T826,1,"['S788', 'S612', 'S811', 'T821', 'S795', 'S807', 'S780', 'T826']","[0, 1, -1, 1, -1, -1, -1, -1]",-1,"[0, -1, 1, -1, 1, 1, 1, 1]",1
+CDK6,phosphorylates,GAB1,Y259;Y317;Y242;Y373,1,"['Y259', 'Y317', 'Y242', 'Y373']","[0, 0, 1, 0]",1,"[0, 0, 1, 0]",1
+CDK6,phosphorylates,CDKN1A,S130,1,['S130'],[-1],-1,[1],1
+CDK6,phosphorylates,CDKN1B,S10;T187,1,"['S10', 'T187']","[1, -1]",-1,"[-1, 1]",1
+CDK6,phosphorylates,BCL2,S87;S70,1,"['S87', 'S70']","[-1, -1]",1,"[-1, -1]",1
+CDK6,phosphorylates,TCF3,S139;S359;S379;S134;T355,1,"['S139', 'S359', 'S379', 'S134', 'T355']","[1, -1, -1, 0, -1]",-1,"[-1, 1, 1, 0, 1]",1
+CDK6,phosphorylates,PDGFRA,Y762,1,['Y762'],[0],1,[0],1
+CDK6,phosphorylates,RUNX1,S249;S21;S303;S276;S397;T300;S266;T273;S293,1,"['S249', 'S21', 'S303', 'S276', 'S397', 'T300', 'S266', 'T273', 'S293']","[1, 1, 1, -1, 1, -1, 1, 1, -1]",-1,"[-1, -1, -1, 1, -1, 1, -1, -1, 1]",1
+CDK5,phosphorylates,NFE2L2,T439;S433;T395,1,"['T439', 'S433', 'T395']","[0, 1, 0]",1,"[0, 1, 0]",-3
+CDK5,phosphorylates,AR,S16;S310;S83,1,"['S16', 'S310', 'S83']","[0, -1, 1]",1,"[0, -1, 1]",-3
+CDK5,phosphorylates,DAXX,S702;S668;S688;S671,1,"['S702', 'S668', 'S688', 'S671']","[0, 1, 0, 0]",-1,"[0, -1, 0, 0]",-3
+CDK5,phosphorylates,PPARG,S273,1,['S273'],[0],1,[0],-3
+CDK5,phosphorylates,AXIN1,T481,1,['T481'],[0],-1,[0],-3
+CDK5,phosphorylates,ATM,S794,1,['S794'],[1],-1,[-1],-3
+CDK5,phosphorylates,CBL,S900;S483,1,"['S900', 'S483']","[0, 0]",-1,"[0, 0]",-3
+CDK5,phosphorylates,MYC,S62,1,['S62'],[1],1,[1],-3
+CDK5,phosphorylates,JUN,S63;S73,1,"['S63', 'S73']","[1, 1]",1,"[1, 1]",-3
+CDK5,phosphorylates,STAT3,Y705;S727,1,"['Y705', 'S727']","[1, 1]",1,"[1, 1]",-3
+CDK5,phosphorylates,CTNNB1,S191;S246,1,"['S191', 'S246']","[1, 1]",1,"[1, 1]",-3
+CDK5,phosphorylates,SMAD4,T277,1,['T277'],[1],-1,[-1],-3
+CDK5,phosphorylates,PAK1,T212,1,['T212'],[0],1,[0],-3
+CDK5,phosphorylates,RB1,S811;S795;S807,1,"['S811', 'S795', 'S807']","[-1, -1, -1]",-1,"[1, 1, 1]",-3
+CDK5,phosphorylates,SRC,S75;S306;T37,1,"['S75', 'S306', 'T37']","[1, 0, 0]",1,"[1, 0, 0]",-3
+CDK5,phosphorylates,MAP2K1,T292;T286,1,"['T292', 'T286']","[-1, -1]",1,"[-1, -1]",-3
+CDK5,phosphorylates,NTRK2,S479,1,['S479'],[0],1,[0],-3
+CDK5,phosphorylates,ERBB2,S1174,1,['S1174'],[0],1,[0],-3
+CDK5,phosphorylates,ERBB3,T873;S1123,1,"['T873', 'S1123']","[0, 0]",1,"[0, 0]",-3
+CDK5,phosphorylates,GRIN2A,S1232,1,['S1232'],[0],-1,[0],-3
+CDK5,phosphorylates,PTPN2,S304,1,['S304'],[0],-1,[0],-3
+CDK5,phosphorylates,PMAIP1,S13,1,['S13'],[-1],-1,[1],-3
+CDK5,phosphorylates,DNMT1,S154,1,['S154'],[1],1,[1],-3
+CDK5,phosphorylates,FOXO1,S249,1,['S249'],[-1],-1,[1],-3
+CDK5,phosphorylates,TP53,S20;S33;S315;S46;S15,1,"['S20', 'S33', 'S315', 'S46', 'S15']","[1, 1, 1, 1, 1]",-1,"[-1, -1, -1, -1, -1]",-3
+CDK2,phosphorylates,MCL1,S64;S121;T163;T92,1,"['S64', 'S121', 'T163', 'T92']","[0, 0, 1, 1]",1,"[0, 0, 1, 1]",-3
+CDK2,phosphorylates,MDM2,T218;T216,1,"['T218', 'T216']","[0, -1]",1,"[0, -1]",-3
+CDK2,phosphorylates,GTF2I,T558;T556,1,"['T558', 'T556']","[0, 0]",1,"[0, 0]",-3
+CDK2,phosphorylates,CCNE1,S399;S387;T395,1,"['S399', 'S387', 'T395']","[1, -1, -1]",1,"[1, -1, -1]",-3
+CDK2,phosphorylates,ESR1,S106;S118;S104;S294,1,"['S106', 'S118', 'S104', 'S294']","[1, 1, 1, 1]",1,"[1, 1, 1, 1]",-3
+CDK2,phosphorylates,NPM1,S125;T234;T199;S70,1,"['S125', 'T234', 'T199', 'S70']","[0, 0, -1, 0]",-1,"[0, 0, 1, 0]",-3
+CDK2,phosphorylates,BRCA1,S1450;S1497;S393,1,"['S1450', 'S1497', 'S393']","[0, 1, 0]",-1,"[0, -1, 0]",-3
+CDK2,phosphorylates,BRCA2,S3291,1,['S3291'],[0],-1,[0],-3
+CDK2,phosphorylates,ID3,S5,1,['S5'],[1],-1,[-1],-3
+CDK2,phosphorylates,APC,S1360,1,['S1360'],[0],-1,[0],-3
+CDK2,phosphorylates,BLM,S175,1,['S175'],[-1],-1,[1],-3
+CDK2,phosphorylates,CIC,S585;T583,1,"['S585', 'T583']","[0, 0]",-1,"[0, 0]",-3
+CDK2,phosphorylates,MYC,S62,1,['S62'],[1],1,[1],-3
+CDK2,phosphorylates,NBN,S432,1,['S432'],[0],-1,[0],-3
+CDK2,phosphorylates,PGR,S20;S190;S676;S213;S400;S25;S554;T430;S162;S294,1,"['S20', 'S190', 'S676', 'S213', 'S400', 'S25', 'S554', 'T430', 'S162', 'S294']","[0, 0, 0, 0, -1, 0, 0, 0, 0, -1]",1,"[0, 0, 0, 0, -1, 0, 0, 0, 0, -1]",-3
+CDK2,phosphorylates,HIST1H1E,T18,1,['T18'],[0],1,[0],-3
+CDK2,phosphorylates,KMT2D,T5374,1,['T5374'],[0],-1,[0],-3
+CDK2,phosphorylates,BARD1,S148;T299;S288;S251,1,"['S148', 'T299', 'S288', 'S251']","[0, 0, 0, 0]",-1,"[0, 0, 0, 0]",-3
+CDK2,phosphorylates,SMAD3,S208;T8;S204;S213;T179,1,"['S208', 'T8', 'S204', 'S213', 'T179']","[-1, -1, -1, -1, -1]",-1,"[1, 1, 1, 1, 1]",-3
+CDK2,phosphorylates,SMAD2,T8,1,['T8'],[1],-1,[-1],-3
+CDK2,phosphorylates,ARID4A,T1124;S1007;S864;S1140;S1145,1,"['T1124', 'S1007', 'S864', 'S1140', 'S1145']","[0, -1, -1, 0, 0]",-1,"[0, 1, 1, 0, 0]",-3
+CDK2,phosphorylates,ARID1A,S1320;S363;S1322,1,"['S1320', 'S363', 'S1322']","[0, 0, 0]",-1,"[0, 0, 0]",-3
+CDK2,phosphorylates,RB1,S612;S249;S811;T821;S567;S795;T356;S807;S608;T826;S230;T252;T373,1,"['S612', 'S249', 'S811', 'T821', 'S567', 'S795', 'T356', 'S807', 'S608', 'T826', 'S230', 'T252', 'T373']","[1, -1, -1, 1, -1, -1, 0, -1, 0, -1, 0, -1, -1]",-1,"[-1, 1, 1, -1, 1, 1, 0, 1, 0, 1, 0, 1, 1]",-3
+CDK2,phosphorylates,PHF6,S155;S154,1,"['S155', 'S154']","[0, 0]",-1,"[0, 0]",-3
+CDK2,phosphorylates,SF3B1,T426;T248;S259;T436;T313;T434;T244;T211;T354;T267;T432;T142;T261,1,"['T426', 'T248', 'S259', 'T436', 'T313', 'T434', 'T244', 'T211', 'T354', 'T267', 'T432', 'T142', 'T261']","[0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",1,"[0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]",-3
+CDK2,phosphorylates,TP53BP1,T1609;T1612,1,"['T1609', 'T1612']","[1, 0]",-1,"[-1, 0]",-3
+CDK2,phosphorylates,HIRA,S687;T555;T588;S584;T586;T583,1,"['S687', 'T555', 'T588', 'S584', 'T586', 'T583']","[0, 1, 0, 0, 0, 0]",-1,"[0, -1, 0, 0, 0, 0]",-3
+CDK2,phosphorylates,CHEK1,S301;S286,1,"['S301', 'S286']","[1, 1]",-1,"[-1, -1]",-3
+CDK2,phosphorylates,SAMHD1,T592,1,['T592'],[-1],-1,[1],-3
+CDK2,phosphorylates,PBRM1,S32;S25;S27;T28,1,"['S32', 'S25', 'S27', 'T28']","[0, 0, 0, 0]",-1,"[0, 0, 0, 0]",-3
+CDK2,phosphorylates,DDX3X,T204,1,['T204'],[-1],-1,[1],-3
+CDK2,phosphorylates,NUP98,S612,1,['S612'],[1],1,[1],-3
+CDK2,dephosphorylates,CDKN1B,Y74;T187;T198,-1,"['Y74', 'T187', 'T198']","[-1, -1, -1]",-1,"[-1, -1, -1]",-3
+CDK2,dephosphorylates,CDKN1A,T145;S130,-1,"['T145', 'S130']","[1, -1]",-1,"[1, -1]",-3
+CDK2,phosphorylates,TCF3,S139;S245,1,"['S139', 'S245']","[1, 0]",-1,"[-1, 0]",-3
+CDK2,phosphorylates,PTPN2,S304,1,['S304'],[0],-1,[0],-3
+CDK2,phosphorylates,DNMT1,S154,1,['S154'],[1],1,[1],-3
+CDK2,phosphorylates,PDS5B,S1369;T1370,1,"['S1369', 'T1370']","[0, 0]",-1,"[0, 0]",-3
+CDK2,phosphorylates,FOXO1,S249,1,['S249'],[-1],-1,[1],-3
+CDK2,phosphorylates,RUNX1,S249;S303;S276;T300;S266;T273;S293,1,"['S249', 'S303', 'S276', 'T300', 'S266', 'T273', 'S293']","[1, 1, -1, -1, 1, 1, -1]",-1,"[-1, -1, 1, 1, -1, -1, 1]",-3
+CDK2,phosphorylates,BTG1,S159,1,['S159'],[0],-1,[0],-3
+CDK2,phosphorylates,TP53,S315;S33;S313;S314;T81;S392,1,"['S315', 'S33', 'S313', 'S314', 'T81', 'S392']","[1, 1, 0, 0, 1, 1]",-1,"[-1, -1, 0, 0, -1, -1]",-3
+CDK1,phosphorylates,MCL1,S64;T92,1,"['S64', 'T92']","[0, 1]",1,"[0, 1]",-3
+CDK1,phosphorylates,AR,S96;S516;S16;S310;S83,1,"['S96', 'S516', 'S16', 'S310', 'S83']","[1, -1, 0, -1, 1]",1,"[1, -1, 0, -1, 1]",-3
+CDK1,phosphorylates,MDM2,T218,1,['T218'],[0],1,[0],-3
+CDK1,phosphorylates,MDM4,S96,1,['S96'],[-1],1,[-1],-3
+CDK1,phosphorylates,AURKA,T288,1,['T288'],[1],1,[1],-3
+CDK1,phosphorylates,MAPK3,S343,1,['S343'],[1],1,[1],-3
+CDK1,phosphorylates,CUX1,S1237;S1270,1,"['S1237', 'S1270']","[-1, -1]",-1,"[1, 1]",-3
+CDK1,dephosphorylates,TP53,S392,-1,['S392'],[1],-1,[1],-3
+CDK1,phosphorylates,CEBPA,S21;S234,1,"['S21', 'S234']","[-1, 0]",-1,"[1, 0]",-3
+CDK1,phosphorylates,NPM1,T219;T208;T237;T205;T234;T199;S70,1,"['T219', 'T208', 'T237', 'T205', 'T234', 'T199', 'S70']","[0, 0, 0, 0, 0, -1, 0]",-1,"[0, 0, 0, 0, 0, 1, 0]",-3
+CDK1,phosphorylates,BRCA1,S1191;S1189;S1497,1,"['S1191', 'S1189', 'S1497']","[1, 1, 1]",-1,"[-1, -1, -1]",-3
+CDK1,phosphorylates,BRCA2,S3291,1,['S3291'],[0],-1,[0],-3
+CDK1,phosphorylates,EGFR,S1026,1,['S1026'],[-1],1,[-1],-3
+CDK1,phosphorylates,ATR,S428,1,['S428'],[1],-1,[-1],-3
+CDK1,phosphorylates,BLM,S714;T766,1,"['S714', 'T766']","[0, 0]",-1,"[0, 0]",-3
+CDK1,phosphorylates,XPO1,S391,1,['S391'],[0],1,[0],-3
+CDK1,phosphorylates,JUN,S63;S243;S73,1,"['S63', 'S243', 'S73']","[1, -1, 1]",1,"[1, -1, 1]",-3
+CDK1,phosphorylates,RPTOR,S696;T706,1,"['S696', 'T706']","[1, 1]",1,"[1, 1]",-3
+CDK1,phosphorylates,HIST1H1E,T18,1,['T18'],[0],1,[0],-3
+CDK1,phosphorylates,BARD1,S148;T299;S288;S251,1,"['S148', 'T299', 'S288', 'S251']","[0, 0, 0, 0]",-1,"[0, 0, 0, 0]",-3
+CDK1,phosphorylates,HIF1A,S668,1,['S668'],[1],1,[1],-3
+CDK1,phosphorylates,RB1,S249;S811;S807;T252;T373,1,"['S249', 'S811', 'S807', 'T252', 'T373']","[-1, -1, -1, -1, -1]",-1,"[1, 1, 1, 1, 1]",-3
+CDK1,phosphorylates,YAP1,T119;S289;S367,1,"['T119', 'S289', 'S367']","[0, 0, 0]",1,"[0, 0, 0]",-3
+CDK1,phosphorylates,TP53BP1,S1678;T1609,1,"['S1678', 'T1609']","[0, 1]",-1,"[0, -1]",-3
+CDK1,phosphorylates,LATS1,T490;S613,1,"['T490', 'S613']","[0, 1]",-1,"[0, -1]",-3
+CDK1,phosphorylates,MAP2K1,S218;T292;S222;T286,1,"['S218', 'T292', 'S222', 'T286']","[1, -1, 1, -1]",1,"[1, -1, 1, -1]",-3
+CDK1,phosphorylates,CHEK1,S301;S286,1,"['S301', 'S286']","[1, 1]",-1,"[-1, -1]",-3
+CDK1,phosphorylates,SAMHD1,T592,1,['T592'],[-1],-1,[1],-3
+CDK1,phosphorylates,ABL1,S569;S588,1,"['S569', 'S588']","[0, 0]",1,"[0, 0]",-3
+CDK1,phosphorylates,CDKN1B,T187,1,['T187'],[-1],-1,[1],-3
+CDK1,phosphorylates,IRS2,S391,1,['S391'],[0],1,[0],-3
+CDK1,phosphorylates,CREB1,S270;S271,1,"['S270', 'S271']","[0, 1]",1,"[0, 1]",-3
+CDK1,phosphorylates,DDX3X,T204;T323,1,"['T204', 'T323']","[-1, -1]",-1,"[1, 1]",-3
+CDK1,phosphorylates,NUP98,T536;S623;S612;T546;T653;S595;T553;T670;T529;S606,1,"['T536', 'S623', 'S612', 'T546', 'T653', 'S595', 'T553', 'T670', 'T529', 'S606']","[0, 1, 1, 0, 0, 0, 0, 1, 0, 0]",1,"[0, 1, 1, 0, 0, 0, 0, 1, 0, 0]",-3
+CDK1,phosphorylates,BCL2,T56,1,['T56'],[1],1,[1],-3
+CDK1,phosphorylates,WWTR1,S105;T326;T346;S90;T285,1,"['S105', 'T326', 'T346', 'S90', 'T285']","[-1, -1, -1, -1, -1]",1,"[-1, -1, -1, -1, -1]",-3
+CDK1,phosphorylates,NCOA3,S867;S728,1,"['S867', 'S728']","[0, -1]",1,"[0, -1]",-3
+CDK1,phosphorylates,PTPN2,S304,1,['S304'],[0],-1,[0],-3
+CDK1,phosphorylates,CASP8,S387,1,['S387'],[-1],-1,[1],-3
+CDK1,phosphorylates,DNMT1,S154,1,['S154'],[1],1,[1],-3
+CDK1,phosphorylates,BCL2L11,S44,1,['S44'],[0],-1,[0],-3
+CDK1,phosphorylates,PDS5B,T1370,1,['T1370'],[0],-1,[0],-3
+CDK1,phosphorylates,FOXO1,S249,1,['S249'],[-1],-1,[1],-3
+CDK1,phosphorylates,RUNX1,S249;S21;S303;S424;S276;S397;T300;S266;T273;S293,1,"['S249', 'S21', 'S303', 'S424', 'S276', 'S397', 'T300', 'S266', 'T273', 'S293']","[1, 1, 1, 1, -1, 1, -1, 1, 1, -1]",-1,"[-1, -1, -1, -1, 1, -1, 1, -1, -1, 1]",-3
+CDK1,phosphorylates,GATA2,T176,1,['T176'],[-1],1,[-1],-3
+CDK1,phosphorylates,TSC1,T1047;T417;S584,1,"['T1047', 'T417', 'S584']","[-1, -1, -1]",-1,"[1, 1, 1]",-3
+CDK1,phosphorylates,TOP1,S112;S394,1,"['S112', 'S394']","[0, 0]",-1,"[0, 0]",-3
+CDK9,phosphorylates,AR,S96;S16;S83,1,"['S96', 'S16', 'S83']","[1, 0, 1]",1,"[1, 0, 1]",-3
+CDK9,phosphorylates,PPARG,S112,1,['S112'],[-1],1,[-1],-3
+CDK9,phosphorylates,NPM1,T219;T95;S10;T237;T234;T199;S70,1,"['T219', 'T95', 'S10', 'T237', 'T234', 'T199', 'S70']","[0, 0, 0, 0, 0, -1, 0]",-1,"[0, 0, 0, 0, 0, 1, 0]",-3
+CDK9,phosphorylates,SMAD3,S208;S213;T179,1,"['S208', 'S213', 'T179']","[-1, -1, -1]",-1,"[1, 1, 1]",-3
+CDK9,phosphorylates,SMAD2,T220,1,['T220'],[1],-1,[-1],-3
+CDK9,phosphorylates,RB1,S811;S795;S807,1,"['S811', 'S795', 'S807']","[-1, -1, -1]",-1,"[1, 1, 1]",-3
+CDK9,phosphorylates,CHEK2,T387,1,['T387'],[1],-1,[-1],-3
+CDK9,phosphorylates,BRD4,T204,1,['T204'],[1],1,[1],-3
+CDK9,phosphorylates,TP53,S315;S33;S392,1,"['S315', 'S33', 'S392']","[1, 1, 1]",-1,"[-1, -1, -1]",-3
+CDKN2A,dephosphorylates,RB1,S788;S795,-1,"['S788', 'S795']","[0, -1]",-1,"[0, -1]",-1
+CDKN2A,phosphorylates,MDM2,Y276,1,['Y276'],[-1],1,[-1],-1
+CDKN1A,phosphorylates,CHEK1,S345,1,['S345'],[1],-1,[-1],-1
+CDKN1A,dephosphorylates,RB1,T821;S567;T826,-1,"['T821', 'S567', 'T826']","[1, -1, -1]",-1,"[1, -1, -1]",-1
+CDKN1A,phosphorylates,TP53,S392,1,['S392'],[1],-1,[-1],-1
+ABL1,phosphorylates,ATR,Y310;Y291,1,"['Y310', 'Y291']","[1, 1]",-1,"[-1, -1]",1
+ABL1,phosphorylates,BCR,Y177;S354,1,"['Y177', 'S354']","[-1, 0]",1,"[-1, 0]",1
+ABL1,phosphorylates,BTK,Y223,1,['Y223'],[1],1,[1],1
+ABL1,phosphorylates,CBL,Y700,1,['Y700'],[-1],-1,[1],1
+ABL1,phosphorylates,JUN,Y170,1,['Y170'],[0],1,[0],1
+ABL1,phosphorylates,MET,Y1356;Y1349,1,"['Y1356', 'Y1349']","[1, 1]",1,"[1, 1]",1
+ABL1,phosphorylates,YAP1,Y407,1,['Y407'],[-1],1,[-1],1
+ABL1,phosphorylates,PTPN11,Y584,1,['Y584'],[1],1,[1],1
+ABL1,phosphorylates,CTNNB1,Y489;Y654;Y86,1,"['Y489', 'Y654', 'Y86']","[0, 1, 1]",1,"[0, 1, 1]",1
+ABL1,phosphorylates,MYC,Y74;Y32,1,"['Y74', 'Y32']","[0, 0]",1,"[0, 0]",1
+ABL1,phosphorylates,HRAS,Y137,1,['Y137'],[0],1,[0],1
+ABL1,phosphorylates,RAD51,Y315;Y54,1,"['Y315', 'Y54']","[0, -1]",-1,"[0, 1]",1
+ABL1,phosphorylates,CDKN1B,Y88;Y89,1,"['Y88', 'Y89']","[-1, -1]",-1,"[1, 1]",1
+ABL1,phosphorylates,CDKN1A,Y77,1,['Y77'],[0],-1,[0],1
+ABL1,phosphorylates,JAK2,Y1007,1,['Y1007'],[1],1,[1],1
+ABL1,phosphorylates,ABL2,Y261,1,['Y261'],[1],1,[1],1
+ABL1,dephosphorylates,RB1,S811;S807,-1,"['S811', 'S807']","[-1, -1]",-1,"[-1, -1]",1
+ABL1,phosphorylates,NFKBIA,Y305,1,['Y305'],[-1],-1,[1],1
+ABL1,phosphorylates,PDGFRB,Y970;Y686;Y934,1,"['Y970', 'Y686', 'Y934']","[1, 1, 1]",1,"[1, 1, 1]",1
+ABL1,phosphorylates,PLCG1,Y771;Y1003,1,"['Y771', 'Y1003']","[-1, -1]",1,"[-1, -1]",1
+ABL1,phosphorylates,NCOA3,Y1357,1,['Y1357'],[1],1,[1],1
+ABL1,phosphorylates,TOP1,Y268,1,['Y268'],[0],-1,[0],1
+ABL1,phosphorylates,MDM4,Y55;Y99,1,"['Y55', 'Y99']","[0, 1]",1,"[0, 1]",1
+ABL1,phosphorylates,MDM2,Y276;Y400;Y405;Y394,1,"['Y276', 'Y400', 'Y405', 'Y394']","[-1, 0, -1, 0]",1,"[-1, 0, -1, 0]",1
+ABL1,phosphorylates,CDC73,Y315;Y290;Y293,1,"['Y315', 'Y290', 'Y293']","[0, 0, 0]",-1,"[0, 0, 0]",1
+ABL1,phosphorylates,VAV1,Y267;Y826,1,"['Y267', 'Y826']","[0, 1]",1,"[0, 1]",1
+ABL1,phosphorylates,CRKL,Y207,1,['Y207'],[-1],1,[-1],1
+ABL1,phosphorylates,ROBO1,Y1038;Y1114;Y1073,1,"['Y1038', 'Y1114', 'Y1073']","[0, 0, -1]",-1,"[0, 0, 1]",1
+ABL1,phosphorylates,EGFR,Y1016;Y1172;Y1197;Y1092,1,"['Y1016', 'Y1172', 'Y1197', 'Y1092']","[1, 1, 1, 1]",1,"[1, 1, 1, 1]",1
+ABL1,phosphorylates,ESR1,Y52;Y219,1,"['Y52', 'Y219']","[1, 1]",1,"[1, 1]",1
+MDM2,phosphorylates,AR,S579;S215,1,"['S579', 'S215']","[1, -1]",1,"[1, -1]",1
+MDM2,dephosphorylates,CDKN1A,T55,-1,['T55'],[1],-1,[1],1
+MDM2,dephosphorylates,TP53,S20;S106;T18;T81;S392,-1,"['S20', 'S106', 'T18', 'T81', 'S392']","[1, 1, 1, 1, 1]",-1,"[1, 1, 1, 1, 1]",1
+MDM2,phosphorylates,CREBBP,T1871,1,['T1871'],[0],-1,[0],1
+MDM2,dephosphorylates,DAXX,S564,-1,['S564'],[-1],-1,[-1],1
+MDM2,phosphorylates,XIAP,S87,1,['S87'],[1],1,[1],1
+MDM2,dephosphorylates,MDM4,S289,-1,['S289'],[1],1,[-1],1
+MDM2,phosphorylates,RB1,S567,1,['S567'],[-1],-1,[1],1
+MDM2,dephosphorylates,NPM1,T199,-1,['T199'],[-1],-1,[-1],1
+E2F2,phosphorylates,RB1,T841;S838,1,"['T841', 'S838']","[0, 0]",-1,"[0, 0]",-3
+SP1,dephosphorylates,JUN,S249;S243;T231,-1,"['S249', 'S243', 'T231']","[-1, -1, -1]",1,"[1, 1, 1]",-3
+SP1,phosphorylates,RB1,T821,1,['T821'],[1],-1,[-1],-3
+SP1,phosphorylates,PGR,S345,1,['S345'],[0],1,[0],-3
+E2F1,deacetylates,RB1,K874;K873,-1,"['K874', 'K873']","[0, 0]",-1,"[0, 0]",-3
+E2F1,dephosphorylates,RB1,S788;S811;T821;T356;S795;S807;S608;T373;T826,-1,"['S788', 'S811', 'T821', 'T356', 'S795', 'S807', 'S608', 'T373', 'T826']","[0, -1, 1, 0, -1, -1, 0, -1, -1]",-1,"[0, -1, 1, 0, -1, -1, 0, -1, -1]",-3
+E2F1,deacetylates,RB1,K874;K873,-1,"['K874', 'K873']","[0, 0]",-1,"[0, 0]",-3
+E2F1,dephosphorylates,RB1,S788;S811;T821;T356;S795;S807;S608;T373;T826,-1,"['S788', 'S811', 'T821', 'T356', 'S795', 'S807', 'S608', 'T373', 'T826']","[0, -1, 1, 0, -1, -1, 0, -1, -1]",-1,"[0, -1, 1, 0, -1, -1, 0, -1, -1]",-3
+PCAF,acetylates,RB1,K874;K873,1,"['K874', 'K873']","[0, 0]",-1,"[0, 0]",-3
+PCAF,acetylates,MYC,K371;K143;K275;K157;K323;K317,1,"['K371', 'K143', 'K275', 'K157', 'K323', 'K317']","[0, 0, 0, 0, 0, 0]",1,"[0, 0, 0, 0, 0, 0]",-3
+TFDP1,dephosphorylates,RB1,S788;T821;S795;T826,-1,"['S788', 'T821', 'S795', 'T826']","[0, 1, -1, -1]",-1,"[0, 1, -1, -1]",-3
+PPP2CA,dephosphorylates,AKT2,S474;T309,-1,"['S474', 'T309']","[1, 1]",1,"[-1, -1]",-3
+PPP2CA,dephosphorylates,AKT3,T305;S472,-1,"['T305', 'S472']","[1, 0]",1,"[-1, 0]",-3
+PPP2CA,dephosphorylates,ARAF,S214,-1,['S214'],[1],1,[-1],-3
+PPP2CA,phosphorylates,TP53,S37,1,['S37'],[1],-1,[-1],-3
+PPP2CA,dephosphorylates,RAF1,S259;S289;S301;S642;S296;S29;Y341,-1,"['S259', 'S289', 'S301', 'S642', 'S296', 'S29', 'Y341']","[-1, 1, -1, -1, 1, -1, 1]",1,"[1, -1, 1, 1, -1, 1, -1]",-3
+PPP2CA,dephosphorylates,CHEK1,S317;S345,-1,"['S317', 'S345']","[1, 1]",-1,"[1, 1]",-3
+PPP2CA,dephosphorylates,CHEK2,S33;S35,-1,"['S33', 'S35']","[1, 1]",-1,"[1, 1]",-3
+PPP2CA,dephosphorylates,MAPK1,T185;Y187,-1,"['T185', 'Y187']","[1, 1]",1,"[-1, -1]",-3
+PPP2CA,dephosphorylates,MAPK3,Y204;T202,-1,"['Y204', 'T202']","[1, 1]",1,"[-1, -1]",-3
+PPP2CA,dephosphorylates,BRAF,S602;T753;T401;T599;S750;S365;S151,-1,"['S602', 'T753', 'T401', 'T599', 'S750', 'S365', 'S151']","[1, -1, -1, 1, -1, -1, -1]",1,"[-1, 1, 1, -1, 1, 1, 1]",-3
+PPP2CA,phosphorylates,BRCA2,T207,1,['T207'],[0],-1,[0],-3
+PPP2CA,dephosphorylates,MDM2,T218;T216;S188;S166,-1,"['T218', 'T216', 'S188', 'S166']","[0, -1, 1, 1]",1,"[0, 1, -1, -1]",-3
+PPP2CA,phosphorylates,AKT1,T308;S473,1,"['T308', 'S473']","[1, 1]",1,"[1, 1]",-3
+PPP2CA,dephosphorylates,RB1,S795;T826,-1,"['S795', 'T826']","[-1, -1]",-1,"[-1, -1]",-3
+PPP2CA,dephosphorylates,MYC,S62,-1,['S62'],[1],1,[-1],-3
+PPP2CB,dephosphorylates,AKT3,T305;S472,-1,"['T305', 'S472']","[1, 0]",1,"[-1, 0]",-3
+PPP2CB,dephosphorylates,AKT1,T308;S473,-1,"['T308', 'S473']","[1, 1]",1,"[-1, -1]",-3
+PPP2CB,dephosphorylates,AKT2,S474;T309,-1,"['S474', 'T309']","[1, 1]",1,"[-1, -1]",-3
+PPP2CB,dephosphorylates,ARAF,S214,-1,['S214'],[1],1,[-1],-3
+PPP2CB,dephosphorylates,RAF1,S259;S494;T491;Y341,-1,"['S259', 'S494', 'T491', 'Y341']","[-1, 1, 1, 1]",1,"[1, -1, -1, -1]",-3
+PPP2CB,dephosphorylates,MAPK1,T185;Y187,-1,"['T185', 'Y187']","[1, 1]",1,"[-1, -1]",-3
+PPP2CB,dephosphorylates,MAPK3,Y204;T202,-1,"['Y204', 'T202']","[1, 1]",1,"[-1, -1]",-3
+PPP2CB,dephosphorylates,BRAF,S365,-1,['S365'],[-1],1,[1],-3
+PPP2CB,dephosphorylates,MDM2,T218;S188;S166,-1,"['T218', 'S188', 'S166']","[0, 1, 1]",1,"[0, -1, -1]",-3
+PPP2CB,dephosphorylates,RB1,S795,-1,['S795'],[-1],-1,[-1],-3
+PRKCB,phosphorylates,RPS6KB2,S473,1,['S473'],[1],1,[1],-3
+PRKCB,phosphorylates,RAF1,S621;T268;S497;S619,1,"['S621', 'T268', 'S497', 'S619']","[1, 0, 1, 1]",1,"[1, 0, 1, 1]",-3
+PRKCB,phosphorylates,IRS1,S323;S441,1,"['S323', 'S441']","[-1, 0]",1,"[-1, 0]",-3
+PRKCB,phosphorylates,IRS2,S306;S679,1,"['S306', 'S679']","[0, 0]",1,"[0, 0]",-3
+PRKCB,phosphorylates,PIK3CG,S582,1,['S582'],[1],1,[1],-3
+PRKCB,phosphorylates,EIF4E,S209,1,['S209'],[1],1,[1],-3
+PRKCB,phosphorylates,AKT1,T308;S473,1,"['T308', 'S473']","[1, 1]",1,"[1, 1]",-3
+PRKCB,phosphorylates,BRAF,T373,1,['T373'],[0],1,[0],-3
+PRKCB,phosphorylates,CARD11,S559;S644;S655;S652;S562,1,"['S559', 'S644', 'S655', 'S652', 'S562']","[0, 1, 0, 1, 0]",1,"[0, 1, 0, 1, 0]",-3
+PRKCB,phosphorylates,GSK3B,S9,1,['S9'],[-1],1,[-1],-3
+PRKCB,phosphorylates,MAPK3,Y203;T201,1,"['Y203', 'T201']","[0, 0]",1,"[0, 0]",-3
+PRKCB,phosphorylates,MAPK1,T182;Y184,1,"['T182', 'Y184']","[0, 0]",1,"[0, 0]",-3
+PRKCB,phosphorylates,EGFR,T654,1,['T654'],[0],1,[0],-3
+PRKCB,phosphorylates,RB1,S249;T821;S795;S780;T252,1,"['S249', 'T821', 'S795', 'S780', 'T252']","[-1, 1, -1, -1, -1]",-1,"[1, -1, 1, 1, 1]",-3
+PRKCB,phosphorylates,PTPN11,S576;S595;S580,1,"['S576', 'S595', 'S580']","[0, 0, 0]",1,"[0, 0, 0]",-3
+PRKCB,phosphorylates,NFE2L2,S40,1,['S40'],[1],1,[1],-3
+PRKCB,phosphorylates,BTK,S180,1,['S180'],[0],1,[0],-3
+PRKCB,phosphorylates,EWSR1,S266,1,['S266'],[-1],1,[-1],-3
+CHEK2,phosphorylates,VHL,S111,1,['S111'],[1],-1,[-1],-1
+CHEK2,phosphorylates,LATS2,S446;S380;S172;S408,1,"['S446', 'S380', 'S172', 'S408']","[0, 1, 0, 1]",-1,"[0, -1, 0, -1]",-1
+CHEK2,phosphorylates,TP53,S20;S15;S366;S37;S378;T18,1,"['S20', 'S15', 'S366', 'S37', 'S378', 'T18']","[1, 1, 1, 1, 1, 1]",-1,"[-1, -1, -1, -1, -1, -1]",-1
+CHEK2,phosphorylates,E2F3,S124,1,['S124'],[1],1,[1],-1
+CHEK2,phosphorylates,MDM4,S403;S367;S342,1,"['S403', 'S367', 'S342']","[-1, 1, -1]",1,"[-1, 1, -1]",-1
+CHEK2,phosphorylates,MDM2,S157;S186,1,"['S157', 'S186']","[1, 1]",1,"[1, 1]",-1
+CHEK2,phosphorylates,BRCA2,T3387,1,['T3387'],[0],-1,[0],-1
+CHEK2,phosphorylates,BRCA1,S988;S1191;S1328;S941;S1423,1,"['S988', 'S1191', 'S1328', 'S941', 'S1423']","[1, 1, 0, 0, 1]",-1,"[-1, -1, 0, 0, -1]",-1
+CHEK2,phosphorylates,RB1,S612,1,['S612'],[1],-1,[-1],-1
+CHEK2,phosphorylates,BLM,T182,1,['T182'],[-1],-1,[1],-1
+CHEK1,phosphorylates,MAP2K1,T55,1,['T55'],[0],1,[0],-1
+CHEK1,phosphorylates,MAP2K2,T59,1,['T59'],[0],1,[0],-1
+CHEK1,phosphorylates,RAD51,T309,1,['T309'],[1],-1,[-1],-1
+CHEK1,phosphorylates,LATS2,S835;S446;S380;S172;S408,1,"['S835', 'S446', 'S380', 'S172', 'S408']","[1, 0, 1, 0, 1]",-1,"[-1, 0, -1, 0, -1]",-1
+CHEK1,phosphorylates,TP53BP1,S1678,1,['S1678'],[0],-1,[0],-1
+CHEK1,phosphorylates,SPEN,T1059,1,['T1059'],[0],-1,[0],-1
+CHEK1,phosphorylates,CTR9,S1081,1,['S1081'],[0],-1,[0],-1
+CHEK1,phosphorylates,ERRFI1,S302;S251,1,"['S302', 'S251']","[0, 0]",-1,"[0, 0]",-1
+CHEK1,phosphorylates,TP53,S20;S15;S37;S366;S378;T387;T18,1,"['S20', 'S15', 'S37', 'S366', 'S378', 'T387', 'T18']","[1, 1, 1, 1, 1, 1, 1]",-1,"[-1, -1, -1, -1, -1, -1, -1]",-1
+CHEK1,phosphorylates,E2F3,S124,1,['S124'],[1],1,[1],-1
+CHEK1,phosphorylates,FANCD2,S331,1,['S331'],[0],-1,[0],-1
+CHEK1,phosphorylates,AURKB,S331,1,['S331'],[1],1,[1],-1
+CHEK1,phosphorylates,MDM4,S367;S342,1,"['S367', 'S342']","[1, -1]",1,"[1, -1]",-1
+CHEK1,phosphorylates,BRCA2,T3387,1,['T3387'],[0],-1,[0],-1
+CHEK1,phosphorylates,SYK,S295,1,['S295'],[-1],1,[-1],-1
+CHEK1,phosphorylates,RB1,S612,1,['S612'],[1],-1,[-1],-1
+CHEK1,phosphorylates,BLM,T182;S646;S539,1,"['T182', 'S646', 'S539']","[-1, 1, 0]",-1,"[1, -1, 0]",-1
+EID1,dephosphorylates,RB1,S249;T252,-1,"['S249', 'T252']","[-1, -1]",-1,"[-1, -1]",-3
+ELF1,dephosphorylates,RB1,T821;T826,-1,"['T821', 'T826']","[1, -1]",-1,"[1, -1]",-3
