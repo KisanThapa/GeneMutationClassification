@@ -1,0 +1,26 @@
+Gene,InteractionType,Output,Site
+ATM,phosphorylates,DAXX,S564
+ATM,phosphorylates,NKX3-1,"T134, T166"
+ATR,phosphorylates,CDKN2A,S8
+BLM,dephosphorylates,TP53,"S15, S378, S376"
+CDKN1A,dephosphorylates,RB1,T821
+CDKN1B,phosphorylates,RB1,S795
+CHEK1,phosphorylates,BLM,T182
+CHEK2,phosphorylates,BLM,T182
+CREBBP,acetylates,TP53,"K382, K382"
+EP300,acetylates,TP53,"K373, K373"
+FBXW7,phosphorylates,BLM,"T171, S175"
+FBXW7,phosphorylates,SMARCA4,"S31, S35"
+PIK3R1,phosphorylates,CASP8,Y380
+PIK3R1,phosphorylates,CBL,"Y774, Y700"
+PIK3R2,phosphorylates,CBL,"Y774, Y700"
+PIK3R3,phosphorylates,CBL,"Y774, Y700"
+PPP2R1A,dephosphorylates,CHEK1,"S317, S345"
+SMAD3,phosphorylates,SMAD2,"S110, S240, S260"
+SMAD4,dephosphorylates,SMAD3,"S425, S423, S425, S423"
+SMARCA4,acetylates,TP53,K373
+STK11,phosphorylates,PTEN,"S385, T383, S380, T382"
+TGFBR1,dephosphorylates,SMAD2,"S467, S465"
+TGFBR1,phosphorylates,SMAD3,S204
+TP53BP1,methylates,TP53,K382
+TSC1,dephosphorylates,TSC2,S664

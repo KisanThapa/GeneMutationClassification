@@ -1,0 +1,456 @@
+Gene,InteractionType,Output,Site
+ABL1,dephosphorylates,RB1,"S811, S807"
+ABL1,phosphorylates,ATR,"Y310, Y291"
+ABL1,phosphorylates,BCR,Y177
+ABL1,phosphorylates,CRKL,Y207
+ABL1,phosphorylates,MDM2,"Y276, Y405"
+ABL1,phosphorylates,PLCG1,"Y771, Y1003"
+ABL1,phosphorylates,YAP1,Y407
+AKT1,phosphorylates,AR,"S215, S792"
+AKT1,phosphorylates,BRAF,"S428, S364, S365, S429"
+AKT1,phosphorylates,BRCA1,"S694, T509"
+AKT1,phosphorylates,BTK,"T495, S51"
+AKT1,phosphorylates,CDKN1A,T145
+AKT1,phosphorylates,CDKN1B,S10
+AKT1,phosphorylates,CTNNB1,S552
+AKT1,phosphorylates,DNMT1,S143
+AKT1,phosphorylates,EP300,S1834
+AKT1,phosphorylates,GAB2,S159
+AKT1,phosphorylates,GATA2,S401
+AKT1,phosphorylates,GSK3B,S9
+AKT1,phosphorylates,INSR,"Y992, Y1011"
+AKT1,phosphorylates,MDM4,S342
+AKT1,phosphorylates,PLCG1,S1248
+AKT1,phosphorylates,RAC1,S71
+AKT1,phosphorylates,RAF1,S259
+AKT1,phosphorylates,RICTOR,T1135
+AKT1,phosphorylates,TAL1,T90
+AKT1,phosphorylates,YAP1,S127
+AKT1,phosphorylates,ZFP36L1,"S203, S92"
+AKT2,phosphorylates,BRAF,"S428, S364, T440"
+AKT2,phosphorylates,CTNNB1,S552
+AKT2,phosphorylates,EP300,S1834
+AKT2,phosphorylates,GSK3B,S9
+AKT3,phosphorylates,BRAF,"S428, S364, S365, S429"
+AKT3,phosphorylates,CDKN1A,T145
+AKT3,phosphorylates,GSK3B,S9
+AKT3,phosphorylates,TBX3,S719
+AR,deacetylates,CTNNB1,K345
+ATM,phosphorylates,ABL1,S446
+ATM,phosphorylates,CREB1,S133
+ATM,phosphorylates,DAXX,S564
+ATM,phosphorylates,HIF1A,S696
+ATM,phosphorylates,MDM4,S367
+ATM,phosphorylates,NKX3-1,"T134, T166"
+ATR,phosphorylates,CDKN2A,S8
+AURKA,phosphorylates,AR,"S215, S792"
+AURKA,phosphorylates,BRCA1,S308
+AURKA,phosphorylates,GSK3B,S9
+AURKA,phosphorylates,LATS2,"S380, S83"
+AURKA,phosphorylates,MYC,T58
+AURKA,phosphorylates,MYCN,T58
+AURKA,phosphorylates,NFKBIA,"S32, S36"
+AURKA,phosphorylates,TP53,"S315, S106"
+AURKB,phosphorylates,ATM,S1403
+AURKB,phosphorylates,DEK,T67
+AXIN1,phosphorylates,LRP6,"S1490, T1572, S1607, T1479, S1490, T1572, S1607, T1479"
+AXIN1,phosphorylates,MYC,S62
+B2M,phosphorylates,BTK,"Y551, Y223"
+B2M,phosphorylates,CD28,"Y218, Y191, Y209"
+B2M,phosphorylates,JUN,"S63, S73"
+B2M,phosphorylates,PLCG1,"Y783, Y1253, Y472"
+B2M,phosphorylates,PLCG2,"Y753, Y1197, Y759, Y1217"
+B2M,phosphorylates,SYK,"Y323, Y525, Y348, Y526, Y352"
+B2M,phosphorylates,VAV2,Y172
+BCL10,phosphorylates,CARD11,S644
+BCL2L11,phosphorylates,MAP2K1,"S218, S222"
+BCL2L11,phosphorylates,MAP2K2,"S226, S222"
+BCL2L11,phosphorylates,MAPK1,"T185, Y187"
+BCL2L11,phosphorylates,MAPK3,"Y204, T202"
+BCR,phosphorylates,PLCG1,Y771
+BLM,dephosphorylates,TP53,"S15, S378, S376"
+CBL,phosphorylates,EGFR,"Y1110, Y1197, Y1092"
+CBL,phosphorylates,ERBB4,Y1056
+CBL,phosphorylates,KDR,"Y1059, Y1054"
+CBL,phosphorylates,KIT,Y568
+CBL,phosphorylates,MET,Y1003
+CBL,phosphorylates,PDGFRB,Y1009
+CBL,phosphorylates,SYK,Y323
+CCND1,dephosphorylates,CDKN1A,S130
+CCND3,phosphorylates,AR,S310
+CCNE1,dephosphorylates,CDKN1B,Y74
+CCNE1,phosphorylates,RB1,T821
+CD79B,dephosphorylates,SYK,S297
+CDC73,phosphorylates,MYC,S62
+CDH1,phosphorylates,SRC,Y419
+CDK4,dephosphorylates,CDKN1A,"T57, S130"
+CDK4,phosphorylates,CDKN2A,"S140, S152"
+CDK4,phosphorylates,RB1,S612
+CDK4,phosphorylates,SMAD4,T277
+CDK4,phosphorylates,TCF3,S139
+CDK6,phosphorylates,BCL2,"S87, S70"
+CDK6,phosphorylates,CDKN1B,S10
+CDK6,phosphorylates,CTNNB1,S45
+CDK6,phosphorylates,RB1,"S612, T821"
+CDK6,phosphorylates,RUNX1,"S249, S21, S303, S397, S266, T273"
+CDK6,phosphorylates,TCF3,S139
+CDK8,phosphorylates,SMAD2,T220
+CDKN1A,dephosphorylates,RB1,T821
+CDKN1B,phosphorylates,RB1,S795
+CHEK1,phosphorylates,AURKB,S331
+CHEK1,phosphorylates,BLM,T182
+CHEK1,phosphorylates,E2F3,S124
+CHEK1,phosphorylates,MDM4,S367
+CHEK2,phosphorylates,BLM,T182
+CHEK2,phosphorylates,E2F3,S124
+CHEK2,phosphorylates,MDM2,"S157, S186"
+CHEK2,phosphorylates,MDM4,S367
+CREBBP,acetylates,TP53,"K382, K382"
+CREBBP,dephosphorylates,ATF1,"S41, S36"
+CREBBP,dephosphorylates,CREB1,"S107, S107, S107"
+CREBBP,phosphorylates,CREB1,"S119, S119, S119"
+CREBBP,phosphorylates,ESR1,"S106, S118, S104"
+CREBBP,phosphorylates,MDM2,"S188, S186"
+CTNNB1,dephosphorylates,CDH1,T790
+CTNNB1,dephosphorylates,MET,"Y1313, Y1235, Y1356, Y1234, Y1365, Y1349"
+CTNNB1,phosphorylates,EP300,S12
+CTNNB1,phosphorylates,YAP1,S127
+CTR9,phosphorylates,MYC,S62
+CUX1,phosphorylates,PLCG1,"Y783, Y1253, Y472"
+CUX1,phosphorylates,STAT5A,Y694
+CUX1,phosphorylates,STAT5B,Y699
+CUX1,phosphorylates,VAV2,Y172
+DDR2,phosphorylates,CBL,Y731
+DNMT1,acetylates,TET2,"K111, K110"
+EGFR,dephosphorylates,ERBB2,"Y877, Y877"
+EGFR,dephosphorylates,ESR1,"T311, T311"
+EGFR,phosphorylates,ATM,Y370
+EGFR,phosphorylates,CBL,"Y674, Y368, Y731, Y371"
+EGFR,phosphorylates,CTNNB1,Y142
+EGFR,phosphorylates,PLCG1,Y771
+EGFR,phosphorylates,STAT5B,"Y740, Y743"
+EP300,acetylates,AR,"K633, K631, K634"
+EP300,acetylates,STAT3,"K49, K87, K49, K87"
+EP300,acetylates,TP53,"K373, K373"
+EP300,phosphorylates,CREB1,S119
+EP300,phosphorylates,CTNNB1,S675
+EP300,phosphorylates,MDM2,"S166, S186"
+EP300,phosphorylates,NCOA3,Y1357
+EP300,phosphorylates,STAT3,"S727, S727"
+EPHA3,phosphorylates,STAT3,Y705
+EPHB1,phosphorylates,FYN,Y420
+EPHB1,phosphorylates,MAP2K1,"S218, S222"
+EPHB1,phosphorylates,PAK1,S144
+EPHB1,phosphorylates,SRC,Y419
+ERBB2,phosphorylates,EGFR,Y1069
+ERBB2,phosphorylates,PLCG1,Y771
+ESR1,dephosphorylates,NCOA3,"S857, S857"
+FBXW7,phosphorylates,BLM,"T171, S175"
+FBXW7,phosphorylates,CCNE1,S399
+FBXW7,phosphorylates,MCL1,T163
+FBXW7,phosphorylates,MYC,S62
+FBXW7,phosphorylates,SHOC2,T507
+FBXW7,phosphorylates,SMARCA4,"S31, S35"
+FGF19,phosphorylates,PLCG1,Y771
+FGF3,phosphorylates,PLCG1,Y771
+FGF4,phosphorylates,PLCG1,Y771
+FGFR1,phosphorylates,PLCG1,Y771
+FGFR2,phosphorylates,CBL,Y674
+FGFR2,phosphorylates,CTNNB1,Y142
+FGFR2,phosphorylates,PLCG1,Y771
+FGFR2,phosphorylates,PTEN,Y240
+FGFR3,phosphorylates,CTNNB1,Y142
+FGFR3,phosphorylates,PLCG1,Y771
+FGFR3,phosphorylates,PTEN,Y240
+FGFR4,phosphorylates,PLCG1,Y771
+FYN,phosphorylates,BCR,Y177
+FYN,phosphorylates,CBL,Y731
+FYN,phosphorylates,CTNNB1,Y142
+FYN,phosphorylates,EGFR,Y1068
+FYN,phosphorylates,GRIN2A,"Y1105, Y1325, Y1267"
+FYN,phosphorylates,NFE2L2,Y576
+FYN,phosphorylates,PLCG1,Y771
+FYN,phosphorylates,VAV1,Y160
+GAB2,phosphorylates,BCR,Y177
+GNAS,dephosphorylates,EGFR,T678
+GSK3B,dephosphorylates,MYC,"S62, S62"
+GSK3B,phosphorylates,CCND1,T286
+GSK3B,phosphorylates,CCND2,T280
+GSK3B,phosphorylates,CCND3,T283
+GSK3B,phosphorylates,CCNE1,"T77, S387, T395"
+GSK3B,phosphorylates,CIITA,S373
+GSK3B,phosphorylates,CTNNB1,"T41, S33, S45, S37"
+GSK3B,phosphorylates,HIST1H1B,T11
+GSK3B,phosphorylates,HRAS,"T148, T144"
+GSK3B,phosphorylates,JUN,"T239, S243"
+GSK3B,phosphorylates,KLF5,S303
+GSK3B,phosphorylates,MCL1,S159
+GSK3B,phosphorylates,MYC,"T58, T58"
+GSK3B,phosphorylates,NFE2L2,"S347, S344"
+GSK3B,phosphorylates,PGR,S390
+GSK3B,phosphorylates,RICTOR,T1695
+GSK3B,phosphorylates,RPTOR,S877
+GSK3B,phosphorylates,SUFU,S342
+GSK3B,phosphorylates,TP53,"S315, S33, S376"
+HDAC1,deacetylates,AR,K631
+HDAC1,dephosphorylates,CTNNB1,S675
+HLA-A,phosphorylates,CD28,"Y218, Y191, Y209"
+HLA-A,phosphorylates,JUN,"S63, S73"
+HRAS,dephosphorylates,RAF1,"S621, S289, S296"
+IFNGR1,phosphorylates,JAK2,Y1007
+IKBKE,phosphorylates,CYLD,S418
+IKBKE,phosphorylates,NFKBIA,"S32, S36"
+IKBKE,phosphorylates,XIAP,S430
+INSR,phosphorylates,CBL,Y371
+INSR,phosphorylates,NFKBIA,Y42
+IRS1,phosphorylates,CBL,Y371
+IRS1,phosphorylates,PIK3R1,"Y556, Y528"
+IRS2,phosphorylates,JAK2,Y119
+JAK2,phosphorylates,EGFR,Y1069
+JAK2,phosphorylates,IRS1,S323
+JAK2,phosphorylates,NFKBIA,"S32, S36"
+JAK3,demethylates,STAT6,Y641
+KIT,phosphorylates,VAV1,Y160
+LCK,phosphorylates,CBL,"Y674, Y731"
+LCK,phosphorylates,EGFR,Y1068
+LCK,phosphorylates,NFKBIA,Y42
+LCK,phosphorylates,PLCG1,Y771
+LCK,phosphorylates,PTEN,"Y315, Y240"
+LCK,phosphorylates,SH2B3,Y273
+LCK,phosphorylates,VAV1,Y160
+LRP6,dephosphorylates,NF2,S518
+LYN,phosphorylates,BCR,Y177
+LYN,phosphorylates,CBL,"Y674, Y731, Y371"
+LYN,phosphorylates,CDK4,Y17
+LYN,phosphorylates,EGFR,Y1068
+LYN,phosphorylates,JAK2,Y119
+LYN,phosphorylates,PLCG1,Y771
+LYN,phosphorylates,PTEN,Y240
+LYN,phosphorylates,VAV1,Y160
+LYN,phosphorylates,YY1,Y383
+MAP2K1,phosphorylates,IRS1,S307
+MAP2K1,phosphorylates,MAPK3,T207
+MAP2K1,phosphorylates,PPARG,S112
+MAP2K1,phosphorylates,TAL1,S122
+MAP3K1,phosphorylates,MAP2K1,"S218, S222"
+MAP3K1,phosphorylates,STAT3,S727
+MAP3K14,phosphorylates,NFKBIA,"S32, S36"
+MAPK1,dephosphorylates,MAP2K1,"S218, S222, S218, S222"
+MAPK1,dephosphorylates,MAP2K2,"S226, S222"
+MAPK1,phosphorylates,AR,S516
+MAPK1,phosphorylates,BCL2,"S87, S70"
+MAPK1,phosphorylates,BCL6,"S333, S343"
+MAPK1,phosphorylates,BRAF,"T753, T401, S750, S151, T151"
+MAPK1,phosphorylates,CDKN1B,"S10, S178"
+MAPK1,phosphorylates,CHEK2,T68
+MAPK1,phosphorylates,CIITA,S288
+MAPK1,phosphorylates,EGFR,T693
+MAPK1,phosphorylates,EP300,"S2315, S2279, S2366"
+MAPK1,phosphorylates,ERF,"S246, S251, S161"
+MAPK1,phosphorylates,FGFR1,S777
+MAPK1,phosphorylates,GAB1,"S454, T312, S597, T476"
+MAPK1,phosphorylates,IRS1,"S636, S312, S616"
+MAPK1,phosphorylates,LCK,"S42, S59"
+MAPK1,phosphorylates,MAP2K1,"T292, T286, T292, T286"
+MAPK1,phosphorylates,MYC,T58
+MAPK1,phosphorylates,PARP1,"S372, T373"
+MAPK1,phosphorylates,PGR,S294
+MAPK1,phosphorylates,PPARG,S112
+MAPK1,phosphorylates,RAF1,"S43, S259, S301, S642, S29"
+MAPK1,phosphorylates,RUNX1,"S249, S303, S266, T273"
+MAPK1,phosphorylates,SMAD2,"T8, S245, S255, T220, S250"
+MAPK1,phosphorylates,SMAD4,T277
+MAPK1,phosphorylates,SOS1,"S1193, S1132, S1178, S1167"
+MAPK1,phosphorylates,STK11,S428
+MAPK1,phosphorylates,TP53,"S33, S15, T81"
+MAPK1,phosphorylates,TSC2,S664
+MAPK1,phosphorylates,XBP1,"S181, S68"
+MAPK3,dephosphorylates,MAP2K1,"S218, S222, S218, S222"
+MAPK3,dephosphorylates,MAP2K2,"S226, S222"
+MAPK3,phosphorylates,AR,S516
+MAPK3,phosphorylates,BCL2,"S87, S70"
+MAPK3,phosphorylates,BCL6,"S333, S343"
+MAPK3,phosphorylates,BRAF,"T753, T401, S750, S151, T151"
+MAPK3,phosphorylates,CIITA,S288
+MAPK3,phosphorylates,EGFR,T693
+MAPK3,phosphorylates,FGFR1,S777
+MAPK3,phosphorylates,GAB1,"S454, T312, S597, T476"
+MAPK3,phosphorylates,IRS1,"S636, S312, S616"
+MAPK3,phosphorylates,JAK2,S523
+MAPK3,phosphorylates,LCK,"S42, S59"
+MAPK3,phosphorylates,MAP2K1,"T292, T286, T292, T286"
+MAPK3,phosphorylates,PAK1,T292
+MAPK3,phosphorylates,PGR,S294
+MAPK3,phosphorylates,PPARG,S112
+MAPK3,phosphorylates,RAC1,T108
+MAPK3,phosphorylates,RAF1,"S43, S259, S301, S642, S29"
+MAPK3,phosphorylates,RUNX1,S303
+MAPK3,phosphorylates,SMAD2,"T8, S245, S255, T220, S250"
+MAPK3,phosphorylates,SMAD4,T277
+MAPK3,phosphorylates,SOS1,"S1193, S1132, S1178, S1167"
+MAPK3,phosphorylates,STK11,S428
+MAPK3,phosphorylates,TAL1,S122
+MAPK3,phosphorylates,TP53,"S15, S392"
+MAPK3,phosphorylates,TSC2,S664
+MAPK3,phosphorylates,XBP1,"S181, S68"
+MCL1,dephosphorylates,BCL2L11,S69
+MCL1,dephosphorylates,PMAIP1,S13
+MDM2,dephosphorylates,DAXX,S564
+MDM2,dephosphorylates,MDM4,S289
+MDM2,dephosphorylates,NPM1,T199
+MDM2,phosphorylates,AR,S215
+MET,dephosphorylates,CTNNB1,"Y654, Y670"
+MET,phosphorylates,PARP1,Y907
+MST1,phosphorylates,MST1R,"Y1238, Y1239"
+MTOR,phosphorylates,IRS1,"S636, S307, S1101"
+MTOR,phosphorylates,RPTOR,S877
+NPM1,phosphorylates,STAT3,Y705
+NRG1,phosphorylates,EGFR,Y1068
+NRG1,phosphorylates,ERBB2,"Y1023, Y1112"
+NTRK1,phosphorylates,CTNNB1,Y142
+NTRK1,phosphorylates,PLCG1,Y771
+NTRK2,phosphorylates,PLCG1,Y771
+NTRK3,phosphorylates,PLCG1,Y771
+PAK1,phosphorylates,BRAF,S364
+PAK1,phosphorylates,ESR1,S236
+PAK1,phosphorylates,MAP2K4,"S257, T261"
+PAK1,phosphorylates,MAP3K1,S67
+PAK1,phosphorylates,RAF1,S43
+PDGFB,phosphorylates,PLCG1,Y771
+PDGFRA,phosphorylates,PLCG1,Y771
+PDGFRB,phosphorylates,PLCG1,Y771
+PIK3CA,phosphorylates,CBL,Y731
+PIK3CA,phosphorylates,PIK3R1,S608
+PIK3CB,phosphorylates,CBL,Y731
+PIK3CD,phosphorylates,CBL,Y731
+PIK3R1,dephosphorylates,IRS1,S616
+PIK3R1,phosphorylates,AKT1,"T308, Y474, S473"
+PIK3R1,phosphorylates,AKT2,T309
+PIK3R1,phosphorylates,AKT3,T305
+PIK3R1,phosphorylates,CASP8,Y380
+PIK3R1,phosphorylates,CBL,"Y774, Y700"
+PIK3R1,phosphorylates,ERBB3,"Y1276, Y1289"
+PIK3R1,phosphorylates,ERBB4,Y1056
+PIK3R1,phosphorylates,GAB1,"Y447, Y627"
+PIK3R1,phosphorylates,KDR,Y801
+PIK3R1,phosphorylates,MET,"Y1356, Y1349"
+PIK3R1,phosphorylates,PDGFRB,"Y751, Y740, Y579, Y581, Y751, Y740, Y579, Y581"
+PIK3R1,phosphorylates,RET,"Y1096, Y1062"
+PIK3R1,phosphorylates,SGK1,"S422, T256"
+PIK3R1,phosphorylates,STAT3,"Y705, S727"
+PIK3R1,phosphorylates,VAV2,Y172
+PIK3R2,phosphorylates,CBL,"Y774, Y700"
+PIK3R2,phosphorylates,ERBB3,"Y1276, Y1289"
+PIK3R2,phosphorylates,ERBB4,Y1056
+PIK3R2,phosphorylates,VAV2,Y172
+PIK3R3,phosphorylates,CBL,"Y774, Y700"
+PIK3R3,phosphorylates,ERBB4,Y1056
+PIK3R3,phosphorylates,VAV2,Y172
+PLCG1,phosphorylates,FLT1,Y1333
+PLCG1,phosphorylates,VAV1,Y160
+PPARG,dephosphorylates,EP300,S89
+PPARG,phosphorylates,CDKN1A,T55
+PPP2R1A,dephosphorylates,BRAF,"T753, T401, S750, S365, S151"
+PPP2R1A,dephosphorylates,CHEK1,"S317, S345"
+PPP2R1A,dephosphorylates,RAF1,"S259, S301, S642, S29"
+PPP2R1A,phosphorylates,AURKA,T288
+PRKACA,phosphorylates,CTNNB1,"S45, S552"
+PRKACA,phosphorylates,ERBB2,T686
+PRKACA,phosphorylates,ESR1,S236
+PRKACA,phosphorylates,GLI1,T374
+PRKACA,phosphorylates,GSK3B,S9
+PRKACA,phosphorylates,IRS1,S1223
+PRKACA,phosphorylates,LCK,S42
+PRKACA,phosphorylates,PIK3CG,T1024
+PRKACA,phosphorylates,PLCG1,S1248
+PRKACA,phosphorylates,PTPN11,"T73, S189"
+PRKACA,phosphorylates,RAF1,"S43, S259"
+PRKACA,phosphorylates,RHOA,S188
+PRKACA,phosphorylates,STK11,S428
+PRKACA,phosphorylates,SUFU,"S346, S342"
+PRKACA,phosphorylates,TAL1,S122
+PRKACA,phosphorylates,TP53,S378
+PTEN,phosphorylates,LRP6,"S1490, T1479"
+PTPN11,dephosphorylates,GAB1,"Y242, Y242"
+PTPN11,dephosphorylates,GAB2,"S623, S623"
+PTPN11,dephosphorylates,JAK2,"Y1007, Y1008, Y1007, Y1008"
+PTPN11,dephosphorylates,KIT,"Y721, Y703, Y570, Y721, Y703, Y570"
+PTPN11,dephosphorylates,PDGFRB,"Y771, Y740, Y751, Y771, Y740, Y751"
+PTPN11,dephosphorylates,SYK,Y348
+PTPN11,phosphorylates,ERBB2,Y1023
+PTPN11,phosphorylates,PIK3R1,"Y556, Y528"
+PTPN2,dephosphorylates,EGFR,Y1069
+PTPN2,dephosphorylates,JAK3,Y981
+PTPN2,phosphorylates,MET,"Y1235, Y1003, Y1234, Y1235, Y1003, Y1234"
+RAC1,phosphorylates,MAP2K4,"S257, T261"
+RAF1,dephosphorylates,KRAS,S181
+RAF1,phosphorylates,MAP2K1,"T292, T286"
+RASA1,phosphorylates,EGFR,"Y1016, Y1110, Y1172, Y1197, Y1092"
+RHOA,dephosphorylates,AKT1,S473
+RICTOR,phosphorylates,MCL1,S159
+RPS6KA4,phosphorylates,SUFU,S342
+RPS6KB2,phosphorylates,GSK3B,S9
+RPS6KB2,phosphorylates,RICTOR,T1135
+RPTOR,dephosphorylates,MTOR,S1415
+RPTOR,dephosphorylates,SHOC2,T507
+RPTOR,phosphorylates,IRS1,"S636, S307, S1101"
+SGK1,phosphorylates,BRAF,"S364, S365"
+SGK1,phosphorylates,EP300,S1834
+SGK1,phosphorylates,FBXW7,S227
+SGK1,phosphorylates,NCSTN,S437
+SGK1,phosphorylates,NFKBIA,S32
+SGK1,phosphorylates,RICTOR,T1135
+SH2D1A,phosphorylates,VAV1,Y826
+SMAD2,phosphorylates,CTNNB1,Y654
+SMAD3,phosphorylates,SMAD2,"S110, S240, S260"
+SMAD4,dephosphorylates,SMAD3,"S425, S423, S425, S423"
+SMARCA4,acetylates,TP53,K373
+SMARCA4,dephosphorylates,CCND1,T286
+SOCS1,dephosphorylates,JAK3,Y981
+SOCS1,phosphorylates,JAK2,"Y1007, Y1007"
+SOCS3,dephosphorylates,JAK2,Y119
+SOCS3,dephosphorylates,JAK3,Y981
+SOCS3,phosphorylates,EPOR,Y368
+SOCS3,phosphorylates,INSR,Y999
+SOS1,phosphorylates,BCR,Y177
+SRC,dephosphorylates,NF2,S518
+SRC,phosphorylates,CBL,Y731
+SRC,phosphorylates,CDK4,Y17
+SRC,phosphorylates,EGFR,Y1068
+SRC,phosphorylates,FLT3,Y589
+SRC,phosphorylates,GRIN2A,"Y1105, Y1325, Y1267, Y1387"
+SRC,phosphorylates,INPPL1,"Y987, Y986"
+SRC,phosphorylates,NFKBIA,Y42
+SRC,phosphorylates,NRAS,Y32
+SRC,phosphorylates,PLCG1,Y771
+SRC,phosphorylates,PTEN,"Y155, Y315, Y68, Y240"
+SRC,phosphorylates,TERT,Y707
+SRC,phosphorylates,TGFBR2,Y284
+SRC,phosphorylates,VAV1,Y160
+STAT3,phosphorylates,CSF3R,Y767
+STAT3,phosphorylates,LYN,Y508
+STK11,phosphorylates,PTEN,"S385, T383, S380, T382"
+SYK,phosphorylates,CBL,"Y674, Y731, Y368, Y371"
+SYK,phosphorylates,LCK,Y192
+SYK,phosphorylates,NFKBIA,Y42
+SYK,phosphorylates,PLCG1,Y771
+TGFBR1,dephosphorylates,SMAD2,"S467, S465"
+TGFBR1,phosphorylates,SMAD3,S204
+TP53,dephosphorylates,BCL2,"S87, T69, S70"
+TP53,dephosphorylates,MDM2,"S425, S386, S395, S407, T419, S429"
+TP53,dephosphorylates,MDM4,"S403, S342"
+TP53BP1,methylates,TP53,K382
+TSC1,dephosphorylates,TSC2,S664
+TYK2,phosphorylates,NFKBIA,"S32, S36"
+VAV2,phosphorylates,RHOA,Y42
+XPO1,dephosphorylates,HIF1A,"S643, S641"
+XPO1,phosphorylates,CCND1,T286
+XPO1,phosphorylates,CDKN1B,S10
+XPO1,phosphorylates,CIITA,S288
+XPO1,phosphorylates,DAXX,S668
+XPO1,phosphorylates,FYN,Y213
+XPO1,phosphorylates,STK11,"S307, S428"
+YES1,phosphorylates,CBL,"Y731, Y368"
+YES1,phosphorylates,CDK4,Y17
+YES1,phosphorylates,EGFR,Y1068
+YES1,phosphorylates,VAV1,Y160
