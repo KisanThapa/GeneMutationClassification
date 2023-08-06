@@ -1,14 +1,14 @@
 # GeneMutationClassification
 
 
-##Problem Statement
+## Problem Statement
 
 In this project, I am going to build a machine learning model to classify whether a gene is mutated or not based on its read count. As genes mutate so frequently, some mutations are harmful some are not. As we have many datasets already available about the gene mutations. So if we can detect gene is mutated or not of a patient using machine learning models, we can infer other information about the patient like suggesting a similar type of treatment to other patients who also have the same mutation. 
 
 Using gene expression dataset from RNASeq and mutation status of the gene from mutation analysis, a gene may be classified into mutated or not mutated.
 
 
-##Dataset Used
+## Dataset Used
 
 I used a dataset from The Cancer Genome Atlas (TCGA), a landmark cancer genomics program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. The Cancer Genome Atlas (TCGA) is a comprehensive and coordinated effort to accelerate our understanding of the molecular basis of cancer through the application of genome analysis technologies, including large-scale genome sequencing. 
 
@@ -27,41 +27,11 @@ The above maintained datasets can be accessed
 - Pathway Commons: https://www.pathwaycommons.org/archives/PC2/v12/PathwayCommons12.All.hgnc.sif.gz
 
 
-Machine Learning Algorithms Used
+## Machine Learning Algorithms Used
 As the problem is binary classification so I used three types of classification algorithms
 
-Logistic Regression
+### Logistic Regression
 
-Support Vector Machine(SVM)
+### Support Vector Machine(SVM)
 
-Neural Network
-
-Before implementing various algorithms
-
-Counting both classes, there are 44 mutated genes and 97 non-mutated genes for PTEN in the dataset.
-
-Splitting the whole dataset into three different sets i.e. Training, Validation, and Testing datasets. 
-
-# Splitting Datasets
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.85, random_state=1)
-
-X_train, X_valid, y_train, y_valid = train_test_split(X_train, y_train, train_size=0.80, random_state=1)
-
-After splitting I got 
-
-Training Set     (95, 17) # 95 samples for training
-
-Testing Set      (22, 17) # 22 samples for testing
-
-Validation Set   (24, 17) # 24 samples for validation
-
-Logistic Regression
-The first algorithm I have used in this problem is Logistic Regression. I used a library Scikit Learn which has an inbuilt feature of Logistic Regression where we can tune different hyperparameters as well. Let's analyze the performance of logistic regression in our problem.
-
-Learning Curve
-Logistic Regression gave the following learning curve. As we can see in the curve there are two curves one for validation and the other for training. The y-axis in this learning curve is the score of the model or accuracy of the model not cost. As the training sample increasing the validation and training score is being stable.
-
-
-Learning Curve - Logistic Regression
-
+### Neural Network
