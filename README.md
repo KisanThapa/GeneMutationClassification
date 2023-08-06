@@ -1,5 +1,6 @@
 # GeneMutationClassification
 
+You can see detail report of this project here: https://sites.google.com/view/ml-project-report/home
 
 ## Problem Statement
 
